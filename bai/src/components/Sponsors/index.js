@@ -82,6 +82,12 @@ const sponsorslist = {
             link: 'https://www.nvidia.com/',
             alt: 'Nvidia logo',
         },
+        {
+            title: 'Stanford HAI (Human-Centered AI),',
+            image: require('./../../assets/img/sponsors-partners/hai.png'),
+            link: 'https://hai.stanford.edu/',
+            alt: 'Stanford Human-Centered AI logo',
+        },
     ],
     Gold: [
         {
