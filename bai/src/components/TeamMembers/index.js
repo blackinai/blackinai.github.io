@@ -45,13 +45,43 @@ const styles = (theme) => ({
     divider: {
         backgroundColor: theme.palette.secondary.dark,
         margin: theme.spacing(2, 2),
-        flexItem: true,
-        width:"140vh",
+        // flexItem: true,
+        display: "flex",
+        width:"150vh",
         height: "1px",
+    }, 
+    title: {
+        marginBottom: theme.spacing(3),
+        marginTop: theme.spacing(3),
+        color: theme.palette.secondary,
     }
 });
 
 const advisoryBoard = [
+    {
+        image: require('./../../assets/img/team/MakindeAdeagbo.jpeg'),
+        name: 'Makinde Adeagbo', 
+        link: 'https://www.linkedin.com/in/makinde/',
+        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/TimnitGebru.jpg'),
+        name: 'Timnit Gebru',
+        link: 'https://ai.stanford.edu/~tgebru/',
+        icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/HabenGirma.jpg'),
+        name: 'Haben Girma', 
+        link: 'https://www.linkedin.com/in/habengirma/',
+        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/AyannaHoward.jpg'),
+        name: 'Ayanna Howard', 
+        link: 'https://www.linkedin.com/in/ayanna-howard/',
+        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
     {
         image: require('./../../assets/img/team/CharlesIsbell.jpg'),
         name: 'Charles Isbell',
@@ -65,65 +95,46 @@ const advisoryBoard = [
         icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
     },
     {
-        image: require('./../../assets/img/team/MakindeAdeagbo.jpeg'),
-        name: 'Makinde Adeagbo', 
-        link: 'https://www.linkedin.com/in/makinde/',
-        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
-    {
         image: require('./../../assets/img/team/RodneySampson.jpeg'),
         name: 'Rodney Sampson', 
         link: 'https://www.linkedin.com/in/rodneysampson/',
-        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
-    {
-        image: require('./../../assets/img/team/AyannaHoward.jpg'),
-        name: 'Ayanna Howard', 
-        link: 'https://www.linkedin.com/in/ayanna-howard/',
-        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
-    {
-        image: require('./../../assets/img/team/HabenGirma.jpg'),
-        name: 'Haben Girma', 
-        link: 'https://www.linkedin.com/in/habengirma/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
 ];
 
 const blackinAIBoard = [
     {
-        image: require('./../../assets/img/team/TimnitGebru.jpg'),
-        name: 'Timnit Gebru',
-        link: 'https://ai.stanford.edu/~tgebru/',
+        image: require('./../../assets/img/team/RedietAbebe.jpg'),
+        name: 'Rediet Abebe', 
+        title: 'Director',
+        link: 'https://www.cs.cornell.edu/~red/',
         icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
     },
     {
-        image: require('./../../assets/img/team/RedietAbebe.jpg'),
-        name: 'Rediet Abebe', 
-        link: 'https://www.cs.cornell.edu/~red/',
+        image: require('./../../assets/img/team/DevinGuillory.jpg'),
+        name: 'Devin Guillory', 
+        title: 'Director',
+        link: 'http://www.devinguillory.com/',
         icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
     },
     {
         image: require('./../../assets/img/team/SanmiKoyejo.png'),
         name: 'Sanmi Koyejo', 
+        title: 'President', 
         link: 'https://sanmi.cs.illinois.edu/',
         icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
     },
     {
         image: require('./../../assets/img/team/EzinneNwanko.jpg'),
         name: 'Ezinne Nwankwo', 
+        title: 'Secretary',
         link: 'https://www.linkedin.com/in/ezinne-nwankwo-119586101/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
     {
-        image: require('./../../assets/img/team/DevinGuillory.jpg'),
-        name: 'Devin Guillory', 
-        link: 'http://www.devinguillory.com/',
-        icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
-    },
-    {
         image: require('./../../assets/img/team/JoyceWilliams.jpg'),
-        name: 'Joyce Williams', 
+        name: 'Joyce Williams',
+        title: 'Treasure', 
         link: '/',
         // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
@@ -131,26 +142,30 @@ const blackinAIBoard = [
 
 const communityTeam = [
     {
+        image: require('./../../assets/img/team/IsaacDonis.jpg'),
+        name: 'Isaac Donis', 
+        title: '',
+        link: 'https://www.linkedin.com/in/isaacdonis/',
+        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
         image: require('./../../assets/img/team/HassanKane.jpg'),
         name: 'Hassan Kane',
+        title: '',
         link: 'https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
     {
         image: require('./../../assets/img/team/KrystalMaughan.jpg'),
         name: 'Krystal Maughan', 
+        title: '',
         link: 'https://www.linkedin.com/in/krystal-maughan-3563a215/',
-        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
-    {
-        image: require('./../../assets/img/team/IsaacDonis.jpg'),
-        name: 'Isaac Donis', 
-        link: 'https://www.linkedin.com/in/isaacdonis/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
     {
         image: require('./../../assets/img/team/mirian.png'),
         name: 'Mírian Silva', 
+        title: '',
         link: 'https://www.linkedin.com/in/mirianfsilva/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
@@ -162,7 +177,7 @@ function TeamMembers(props) {
     return (
         <section className={classes.root}>
             <Container className={classes.container}>
-                <Grid container spacing={2}>
+                <Grid container spacing={12}>
                     <Grid item xs={12}>
                         <Typography variant="h3" marked="center" align="center" className={classes.title}>
                             Our Team
@@ -171,30 +186,16 @@ function TeamMembers(props) {
 
                     <Grid item xs={12}>
                         <Typography variant="h5" marked="center" align="center" className={classes.title}>
-                            Advisory Board
-                        </Typography>
-                    </Grid> 
-                    {advisoryBoard.map((tile) => (
-                        <Grid item xs={12} md={2}>
-                            <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
-                            <Typography className={classes.cardtitle} variant="h6" gutterBottom>
-                                {tile.name} <Link target="_blank" rel="noopener" className={classes.icon} href={tile.link}>{tile.icon}</Link>
-                            </Typography>
-                        </Grid>
-                    ))}
-
-                    <Divider variant="middle" className={classes.divider}/>
-
-                    <Grid item xs={12}>
-                        <Typography variant="h5" marked="center" align="center" className={classes.title}>
                             Black in AI Board
                         </Typography>
                     </Grid> 
                     {blackinAIBoard.map((tile) => (
-                        <Grid item xs={12} md={2}>
+                        <Grid item xs align="center">
                             <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
                             <Typography className={classes.cardtitle} variant="h6" gutterBottom>
                                 {tile.name} <Link target="_blank" rel="noopener" className={classes.icon} href={tile.link}>{tile.icon}</Link>
+                                <br/>
+                                {tile.title}
                             </Typography>
                         </Grid>
                     ))}
@@ -203,12 +204,28 @@ function TeamMembers(props) {
                     
                     <Grid item xs={12}>
                         <Typography variant="h5" marked="center" align="center" className={classes.title}>
+                            Advisory Board
+                        </Typography>
+                    </Grid> 
+                    {advisoryBoard.map((tile) => (
+                        <Grid item xs align="center">
+                            <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
+                            <Typography className={classes.cardtitle} variant="h6" gutterBottom>
+                                {tile.name} <Link target="_blank" rel="noopener" className={classes.icon} href={tile.link}>{tile.icon}</Link>
+                            </Typography>
+                        </Grid>
+                    ))}
+
+                    <Divider variant="middle" className={classes.divider}/>
+
+                    <Grid item xs={12}>
+                        <Typography variant="h5" marked="center" align="center" className={classes.title}>
                             Community Team
                         </Typography>
                     </Grid> 
                     <Grid container justify="center">
                         {communityTeam.map((tile) => (
-                        <Grid key={tile} item xs={12} md={2}>
+                        <Grid key={tile} item xs md={2} align="center">
                             <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
                             <Typography className={classes.cardtitle} variant="h6" gutterBottom>
                                 {tile.name} <Link target="_blank" rel="noopener" className={classes.icon} href={tile.link}>{tile.icon}</Link>

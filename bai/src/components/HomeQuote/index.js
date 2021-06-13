@@ -12,10 +12,12 @@ const styles = (theme) => ({
         backgroundColor: theme.palette.secondary.main,
     },
     container: {
-        marginTop: theme.spacing(3),
-        marginBottom: theme.spacing(3),
+        marginTop: theme.spacing(8),
+        marginBottom: theme.spacing(8),
         display: 'flex',
         position: 'relative',
+        flexDirection: 'column',
+        alignItems: 'center',
     },
     item: {
         display: 'flex',
@@ -67,13 +69,11 @@ function HomeQuote(props) {
     return (
         <section className={classes.root}>
             <Container className={classes.container}>
-                <Grid container spacing={4}>
-                    <Grid item xs={12}>
+                    <Grid item xs={12} md={8}>
                         <Typography variant="h3" align="center" className={classes.title}>
                             Removing barriers to the sustained existence of black ai innovators
                         </Typography>
-                    </Grid>
-                    <Grid item xs={12} md={8}>
+                    
                         <Typography variant="body1" className={classes.title}>
                             Without diversity in our set of researchers, we are not going to address problems
                             faced by the majority of people in the world. Black in AI’s projects addresses the
@@ -85,8 +85,7 @@ function HomeQuote(props) {
                             Learn more about our work
                         </ColorButton>
                     </Grid>
-
-                    <Grid item xs={12} md={4}>
+                    {/* <Grid item xs={12} md={4}>
                         <Avatar alt="Timnit Gebru" src={require('./../../assets/img/team/TimnitGebru.jpg')}
                             className={classes.avatarSize} />
                         <Typography className={classes.title} variant="body1" gutterBottom>
@@ -94,8 +93,8 @@ function HomeQuote(props) {
                             <br></br>
                             Co-founder, Black in AI
                         </Typography>
-                    </Grid>
-                </Grid>
+                    </Grid> */}
+               
             </Container>
         </section>
 

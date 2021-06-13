@@ -90,8 +90,8 @@ const styles = (theme) => ({
             display: "block",
             padding: "10px 20px",
             fontSize: theme.typography.fontSize,
-        },
-    }
+        }
+    },
 });
 
 const ColorButton = withStyles((theme) => ({
@@ -134,7 +134,32 @@ function Navbar(props) {
         },
         {
             text: 'Programs',
-            path: '/#/programs',
+            path: [
+                {
+                    text: 'All Programs',
+                    path: '/#/programs',
+                },
+                {
+                    text: 'Academic Programs',
+                    path: '/#/programs/academic-programs',
+                },
+                {
+                    text: 'Advocay',
+                    path: '/#/programs/advocacy',
+                },
+                {
+                    text: 'Entrepreneurship Program',
+                    path: '/#/programs/entrepreneurship-program',
+                },
+                {
+                    text: 'Financial Support',
+                    path: '/#/programs/financial-support',
+                },
+                {
+                    text: 'Summer Research Programs',
+                    path: '/#/programs/summer-research-programs',
+                },
+            ],
         },
         {
             text: 'Opportunities',
@@ -243,7 +268,7 @@ function Navbar(props) {
             <AppBar position="fixed" className={classes.colorAppBar}>
                 <Toolbar className={classes.toolbar}>
                     <div className={classes.left}>{brandComponent}</div>
-                    <React.Fragment>
+                    <List>
                         <div className={classes.right}>
                             {navLinks.map((link, index) => 
                                 Array.isArray(link.path)
@@ -266,7 +291,7 @@ function Navbar(props) {
                                 <Donate />
                             </ColorButton>
                         </div>
-                    </React.Fragment>
+                    </List>
                 </Toolbar>
                 <div className={classes.iconContainer}>
                     <React.Fragment key='right'>
