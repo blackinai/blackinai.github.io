@@ -18,7 +18,6 @@ const styles = (theme) => ({
         minWidth: "160px",
         padding: "5px 0",
         margin: "2px 0 0",
-        fontSize: "14px",
         textAlign: "left",
         listStyle: "none",
         backgroundColor: "#fff",
