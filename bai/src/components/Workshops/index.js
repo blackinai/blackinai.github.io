@@ -88,22 +88,10 @@ function Workshops(props) {
 
     const workshops = [
         {
-            img: require('./../../assets/img/general/renaissance_long_beach_hotel.jpg'),
-            title: 'Black in AI 2017',
-            width: '30%',
-            url: '/#/workshop/bai2017',
-        },
-        {
-            img: require('./../../assets/img/general/montreal_convention_centre.jpg'),
-            title: 'Black in AI 2018',
-            width: '40%',
-            url: '/#/workshop/bai2018',
-        },
-        {
-            img: require('./../../assets/img/general/vancouver_convention_center.jpg'),
-            title: 'Black in AI 2019',
-            width: '30%',
-            url: '/#/workshop/bai2019',
+            img: require('./../../assets/img/general/convention_centre_sydney.jpeg'),
+            title: 'Black in AI 2021 - Coming Soon',
+            width: '100%',
+            url: 'https://nips.cc/Conferences/2021/',
         },
         {
             img: require('./../../assets/img/general/vancouver_neurips_2020.jpg'),
@@ -112,10 +100,22 @@ function Workshops(props) {
             url: 'https://blackinai2020.vercel.app/',
         },
         {
-            img: require('./../../assets/img/general/convention_centre_sydney.jpeg'),
-            title: 'Black in AI 2021 - Comming Soon',
-            width: '100%',
-            url: 'https://nips.cc/Conferences/2021/',
+            img: require('./../../assets/img/general/vancouver_convention_center.jpg'),
+            title: 'Black in AI 2019',
+            width: '30%',
+            url: '/#/workshop/bai2019',
+        },
+        {
+            img: require('./../../assets/img/general/montreal_convention_centre.jpg'),
+            title: 'Black in AI 2018',
+            width: '40%',
+            url: '/#/workshop/bai2018',
+        },
+        {
+            img: require('./../../assets/img/general/renaissance_long_beach_hotel.jpg'),
+            title: 'Black in AI 2017',
+            width: '30%',
+            url: '/#/workshop/bai2017',
         },
     ];
 

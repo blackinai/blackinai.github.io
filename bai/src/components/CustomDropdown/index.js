@@ -12,13 +12,17 @@ const styles = (theme) => ({
     dropdown: {
         borderRadius: "3px",
         border: "0",
+        boxShadow: "0 2px 5px 0 rgba(0, 0, 0, 0.26)",
         top: "100%",
         zIndex: "1000",
         minWidth: "160px",
         padding: "5px 0",
         margin: "2px 0 0",
+        fontSize: "14px",
         textAlign: "left",
         listStyle: "none",
+        backgroundColor: "#fff",
+        backgroundClip: "padding-box",
         fontSize: theme.typography.fontSize,
     },
     menuList: {
@@ -28,14 +32,15 @@ const styles = (theme) => ({
     popperResponsive: {
         zIndex: "1200",
         [theme.breakpoints.down("sm")]: {
-            zIndex: "1640",
-            position: "static",
-            float: "none",
-            width: "auto",
-            marginTop: "0",
-            backgroundColor: "transparent",
-            border: "0",
-            boxShadow: "none",
+          zIndex: "1640",
+          position: "static",
+          float: "none",
+          width: "auto",
+          marginTop: "0",
+          backgroundColor: "transparent",
+          border: "0",
+          boxShadow: "none",
+          color: "black",
         },
     },
     dropdownItem: {
@@ -51,6 +56,13 @@ const styles = (theme) => ({
         color: "#333",
         whiteSpace: "nowrap",
         minHeight: "unset",
+    },
+    primaryHover: {
+        "&:hover": {
+          backgroundColor: theme.palette.secondary.dark,
+          color: "#FFFFFF",
+          boxShadow: "0 12px 20px -10px rgba(156, 39, 176, 0.28), 0 4px 20px 0px rgba(0, 0, 0, 0.12), 0 7px 8px -5px rgba(156, 39, 176, 0.2)",
+        },
     },
     dropdownItemRTL: {
         textAlign: "right",
@@ -81,11 +93,19 @@ const styles = (theme) => ({
         marginRight: "4px",
     },
     dropdownHeader: {
+        display: "block",
+        padding: "0.1875rem 1.25rem",
         lineHeight: "1.428571",
+        color: "#777",
         whiteSpace: "nowrap",
+        fontWeight: "inherit",
         marginTop: "10px",
         minHeight: "unset",
         fontSize: theme.typography.fontSize,
+        "&:hover,&:focus": {
+          backgroundColor: "transparent",
+          cursor: "auto",
+        },
     },
     noLiPadding: {
         padding: "0",
@@ -119,9 +139,11 @@ export default function CustomDropdown(props) {
     const {
         buttonText,
         dropdownList,
+        buttonProps,
         dropup,
         dropdownHeader,
         caret,
+        hoverColor,
         left,
         rtlActive,
         noLiPadding,
@@ -133,6 +155,7 @@ export default function CustomDropdown(props) {
     });
     const dropdownItem = classNames({
         [classes.dropdownItem]: true,
+        [classes[hoverColor + "Hover"]]: true,
         [classes.noLiPadding]: noLiPadding,
         [classes.dropdownItemRTL]: rtlActive,
     });
@@ -141,12 +164,12 @@ export default function CustomDropdown(props) {
         <div>
             <div>
                 <Button
-                    // aria-label="Notifications"
+                    aria-label="Notifications"
                     aria-owns={anchorEl ? "menu-list" : null}
-                    // aria-haspopup="true"
+                    aria-haspopup="true"
+                    {...buttonProps}
                     onClick={handleClick}
                 >
-                    
                     {buttonText !== undefined ? buttonText : null}
                     {caret ? <b className={caretClasses} /> : null}
                 </Button>
@@ -223,15 +246,22 @@ export default function CustomDropdown(props) {
 
 CustomDropdown.defaultProps = {
     caret: true,
+    // hoverColor: "primary",
 };
 
 CustomDropdown.propTypes = {
+    hoverColor: PropTypes.oneOf([
+        "primary",
+    ]),
+    buttonText: PropTypes.node,
     dropdownList: PropTypes.array,
+    buttonProps: PropTypes.object,
     dropup: PropTypes.bool,
     dropdownHeader: PropTypes.node,
     rtlActive: PropTypes.bool,
     caret: PropTypes.bool,
     left: PropTypes.bool,
     noLiPadding: PropTypes.bool,
+    // function that retuns the selected item
     onClick: PropTypes.func,
 };

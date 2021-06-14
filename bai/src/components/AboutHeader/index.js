@@ -2,7 +2,6 @@ import { CardMedia, Container, Grid } from '@material-ui/core';
 import { withStyles } from '@material-ui/core/styles';
 import PropTypes from 'prop-types';
 import React from 'react';
-import HeaderLayout from '../HeaderLayout';
 import Typography from '../Typography';
 import image2 from './../../assets/img/header/bai-img-4.JPG';
 import image4 from './../../assets/img/header/bai-img-5.jpg';

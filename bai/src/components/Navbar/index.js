@@ -84,13 +84,19 @@ const styles = (theme) => ({
         color: theme.palette.primary.dark,
     },
     dropdownLink: {
-        "&,&:hover,&:focus": {
-            color: "inherit",
-            textDecoration: "none",
+        "&": {
             display: "block",
+            color: "inherit",
             padding: "10px 20px",
             fontSize: theme.typography.fontSize,
-        }
+        },
+        "&:hover": {
+            display: "block",
+            backgroundColor: theme.palette.secondary.dark,
+            color: "inherit",
+            padding: "10px 20px",
+            fontSize: theme.typography.fontSize,
+        },
     },
 });
 
@@ -274,6 +280,10 @@ function Navbar(props) {
                                 Array.isArray(link.path)
                                 ?   
                                     <CustomDropdown noLiPadding buttonText={link.text}
+                                        buttonProps={{
+                                            round: true,
+                                            color: "info"
+                                        }}
                                         dropdownList={[
                                             link.path.map((sublink, idx) => 
                                                 <Link color="inherit" variant="h5" underline="none" className={classes.dropdownLink} href={sublink.path}>

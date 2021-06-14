@@ -60,21 +60,6 @@ const ColorButton = withStyles((theme) => ({
 
 const eachProgramOne = [
     {
-        img: require('./../../assets/img/header/bai-img-4.JPG'),
-        title: 'Summer Research Programs',
-        url: '/#/programs/summer-research-programs',
-        // eslint-disable-next-line
-        text: 'Starting summer of 2021, Black in AI is piloting 2 summer programs, one tailored towards undergraduates, \
-        and another one without restrictions for participation. Black in AI is excited to partner with the Distributed \
-        Research Experiences for Undergraduates (DREU) program and will fund a limited \
-        number of summer internships in the summer of 2021. In addition, Black in AI is also partnering with Stanford \
-        University to pilot the BlackAIR summer research program, to provide research support, mentorship, and exposure \
-        to program participants. Black women at various stages of AI research \
-        experience are encouraged to apply. Program participants will be matched with a research mentor whom they will \
-        regularly meet (remotely) for research guidance over the course of the grant, and will get the opportunity to \
-        hear speakers from various Computer Science research fields. The 2021 edition of the program will be held remotely.'
-    },
-    {
         img: require('./../../assets/img/header/bai-img-13.jpg'),
         title: 'Academic Program',
         url: '/#/programs/academic-programs',
@@ -84,23 +69,6 @@ const eachProgramOne = [
             the postgraduate job market. To that end, we conduct online information sessions, provide scholarships \
             to cover costs related to applications, assign participants to peer and senior mentors, and share \
             crowdsourced documents that demystify application processes.'
-    },
-];
-
-const eachProgramTwo = [
-    {
-        img: require('./../../assets/img/header/bai-img-8.png'),
-        title: 'Financial Support',
-        url: '/#/programs/financial-support',
-        // eslint-disable-next-line
-        text: 'In addition to providing scholarships to cover costs associated with navigating academic \
-            programs, Black in AI awards need-based travel grants to attend our annual events including our \
-            workshop at the NeruIPS conference, and additional events in other conferences such as \
-            AAAI, CVPR, ACL, ICML, ICLR, COLING and FAccT. Our grants cover flights, accommodation, daily per diems, \
-            visa fees, data grants, and registration for the conferences. Since the first Black in AI workshop in 2017, \
-            400+ works from 40+ countries have been presented with over $1M given out in travel grants supporting \
-            400+ people. Many members cannot afford to first pay out of pocket and then receive reimbursements. \
-            Thus we also make travel arrangements for them including booking airfare and accommodation.'
     },
     {
         img: require('./../../assets/img/header/bai-img-12.jpg'),
@@ -129,6 +97,38 @@ const eachProgramTwo = [
     },
 ];
 
+const eachProgramTwo = [
+    {
+        img: require('./../../assets/img/header/bai-img-8.png'),
+        title: 'Financial Support',
+        url: '/#/programs/financial-support',
+        // eslint-disable-next-line
+        text: 'In addition to providing scholarships to cover costs associated with navigating academic \
+            programs, Black in AI awards need-based travel grants to attend our annual events including our \
+            workshop at the NeruIPS conference, and additional events in other conferences such as \
+            AAAI, CVPR, ACL, ICML, ICLR, COLING and FAccT. Our grants cover flights, accommodation, daily per diems, \
+            visa fees, data grants, and registration for the conferences. Since the first Black in AI workshop in 2017, \
+            400+ works from 40+ countries have been presented with over $1M given out in travel grants supporting \
+            400+ people. Many members cannot afford to first pay out of pocket and then receive reimbursements. \
+            Thus we also make travel arrangements for them including booking airfare and accommodation.'
+    },
+    {
+        img: require('./../../assets/img/header/bai-img-4.JPG'),
+        title: 'Summer Research Programs',
+        url: '/#/programs/summer-research-programs',
+        // eslint-disable-next-line
+        text: 'Starting summer of 2021, Black in AI is piloting 2 summer programs, one tailored towards undergraduates, \
+        and another one without restrictions for participation. Black in AI is excited to partner with the Distributed \
+        Research Experiences for Undergraduates (DREU) program and will fund a limited \
+        number of summer internships in the summer of 2021. In addition, Black in AI is also partnering with Stanford \
+        University to pilot the BlackAIR summer research program, to provide research support, mentorship, and exposure \
+        to program participants. Black women at various stages of AI research \
+        experience are encouraged to apply. Program participants will be matched with a research mentor whom they will \
+        regularly meet (remotely) for research guidance over the course of the grant, and will get the opportunity to \
+        hear speakers from various Computer Science research fields. The 2021 edition of the program will be held remotely.'
+    }, 
+];
+
 function ProgramsList(props) {
     const { classes } = props;
 
@@ -142,7 +142,7 @@ function ProgramsList(props) {
                 </Grid>
                 <Grid container spacing={4}>
                     {eachProgramOne.map((key) => (
-                        <Grid container item xs={12} md={6}>
+                        <Grid container item xs={12} md={4}>
                             <Card className={classes.card}>
                                 <div className={classes.details}>
                                     <CardMedia className={classes.media} image={key.img} title={key.title} />
@@ -164,7 +164,7 @@ function ProgramsList(props) {
                         </Grid>
                     ))}
                     {eachProgramTwo.map((key) => (
-                        <Grid container item xs={12} md={4}>
+                        <Grid container item xs={12} md={6}>
                             <Card className={classes.card}>
                                 <div className={classes.details}>
                                     <CardMedia className={classes.media} image={key.img} title={key.title} />
