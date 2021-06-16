@@ -22,6 +22,7 @@ import Partnership from './pages/Partnership';
 import Programs from './pages/Programs';
 import * as serviceWorker from './serviceWorker';
 import NAACL2021 from './pages/BaiSocials/NAACL2021';
+import ICML2021 from './pages/BaiSocials/ICML2021';
 import Calendar from './pages/Calendar';
 
 library.add(fab, fas);
@@ -45,6 +46,7 @@ ReactDOM.render(
             <Route path="/workshop/bai2019" component={BAI2019} />
             <Route path="/media" component={PressRoom} />
             <Route path="/events/social-naacl-2021" component={NAACL2021}/>
+            <Route path="/events/social-icml-2021" component={ICML2021}/>
             <Route path="/calendar" component={Calendar} />
         </Switch>
     </HashRouter>,

@@ -188,6 +188,10 @@ function Navbar(props) {
             text: 'Community Events',
             path: [
                 {
+                    text: 'BAI Social ICLM 2021 ',
+                    path: '/#/events/social-icml-2021',
+                },
+                {
                     text: 'BAI Social NAACL 2021 ',
                     path: '/#/events/social-naacl-2021',
                 },
