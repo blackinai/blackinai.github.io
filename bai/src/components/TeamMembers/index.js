@@ -169,6 +169,13 @@ const communityTeam = [
         link: 'https://www.linkedin.com/in/mirianfsilva/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
+    {
+        image: require('./../../assets/img/team/victor.jpg'),
+        name: 'Victor Silva', 
+        title: '',
+        link: 'https://webdocs.cs.ualberta.ca/~vsilva/',
+        icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
+    },
 ];
 
 function TeamMembers(props) {
