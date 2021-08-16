@@ -146,8 +146,8 @@ function Navbar(props) {
                     path: '/#/programs',
                 },
                 {
-                    text: 'Academic Programs',
-                    path: '/#/programs/academic-programs',
+                    text: 'Academic Program',
+                    path: '/#/programs/academic-program',
                 },
                 {
                     text: 'Advocay',

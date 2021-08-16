@@ -62,7 +62,7 @@ const eachProgramOne = [
     {
         img: require('./../../assets/img/header/bai-img-13.jpg'),
         title: 'Academic Program',
-        url: '/#/programs/academic-programs',
+        url: '/#/programs/academic-program',
         // eslint-disable-next-line
         text: 'The Black in AI Academic program is committed to serving as a resource and supporting \
             Black junior researchers as they apply to graduate programs, navigate graduate school, and enter \

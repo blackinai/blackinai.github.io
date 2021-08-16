@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 import { HashRouter, Route, Switch } from "react-router-dom";
 import './index.css';
 import About from './pages/About';
-import AcademicPrograms from './pages/AcademicPrograms';
+import AcademicProgram from './pages/AcademicProgram';
 import AdvocacyPrograms from './pages/AdvocacyPrograms';
 import Conferences from './pages/BaiWorkshops/AllConferences';
 import BAI2017 from './pages/BaiWorkshops/BAI2017';
@@ -34,7 +34,7 @@ ReactDOM.render(
             <Route path="/about" component={About} />
             <Route path="/membership" component={Membership} />
             <Route path="/partnership" component={Partnership} />
-            <Route path="/programs/academic-programs" component={AcademicPrograms} />
+            <Route path="/programs/academic-program" component={AcademicProgram} />
             <Route path="/programs/advocacy" component={AdvocacyPrograms} />
             <Route path="/programs/financial-support" component={FinancialSupport} />
             <Route path="/programs/entrepreneurship-program" component={EntrepreneurshipProgram} />

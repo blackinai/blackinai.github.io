@@ -68,7 +68,7 @@ function BecamePartner(props) {
                     <Typography variant="h2" className={classes.title}>
                         Became a Partner
                     </Typography>
-                    <ColorButton className={classes.chip} variant="contained" href="/#/academicprograms">
+                    <ColorButton className={classes.chip} variant="contained" href="/#/academicprogram">
                         Partner with Us
                     </ColorButton>
                 </Grid>
