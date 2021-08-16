@@ -83,7 +83,7 @@ function HomeHeader(props) {
             <Grid container spacing={4}>
                 <Grid item xs={12} md={6}>
                     <Typography align="left" variant="h3" className={classes.title}>
-                        Increasing the presence of black people in the field of artificial intelligence
+                        Increasing the presence of Black people in the field of artificial intelligence
                     </Typography>
                     <Typography align="left" variant="h5">
                         Black in AI increases the presence and inclusion of Black people in the field of
@@ -95,10 +95,13 @@ function HomeHeader(props) {
                     <JoinUsButton className={classes.chip} variant="contained" href="/#/partnership">
                         Partner with Us
                     </JoinUsButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://docs.google.com/forms/d/e/1FAIpQLSdMcCerEXj45B_FrCrbIMhTHAO4MU5n00tl978a_bRFTfRanw/viewform">
+                        Share Opportunities
+                    </ColorButton>
                 </Grid>
                 <Grid item xs={12} md={6}>
                     <CardMedia component="img" height="400" image={image}
-                        alt="Almost ten black people, smiling, with raised hands. All wearing the black in AI badge.">
+                        alt="Almost ten Black people, smiling, with raised hands. All wearing the Black in AI badge.">
                     </CardMedia>
                 </Grid>
             </Grid>

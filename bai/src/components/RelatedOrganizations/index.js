@@ -102,7 +102,7 @@ const organizationslist = [
         id: 6, title: 'Queer in AI',
         image: 'https://pbs.twimg.com/profile_images/1291532732166627328/4pMskud1.jpg',
         link: 'https://sites.google.com/view/queer-in-ai/',
-        alt: 'A black and brown brain design to represent racial diversity, also in pink, blue and white - the colors of the trans flag, in addition to the colors of the LBGT flag representing Queer in AI organization'
+        alt: 'A Black and brown brain design to represent racial diversity, also in pink, blue and white - the colors of the trans flag, in addition to the colors of the LBGT flag representing Queer in AI organization'
     }
 ];
 

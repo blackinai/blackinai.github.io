@@ -80,7 +80,7 @@ function JoinUs(props) {
                         We’re just getting started
                     </Typography>
                     <Typography variant="body1" className={classes.title}>
-                        We envision a thriving, end-to-end ecosystem sustainably allocating black talent 
+                        We envision a thriving, end-to-end ecosystem sustainably allocating Black talent 
                         to the development of AI through engaging with students, researchers, entrepreneurs.
                     </Typography>
                     <ColorButton className={classes.chip} variant="contained" href="/">

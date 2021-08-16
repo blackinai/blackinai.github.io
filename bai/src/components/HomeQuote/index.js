@@ -71,7 +71,7 @@ function HomeQuote(props) {
             <Container className={classes.container}>
                     <Grid item xs={12} md={8}>
                         <Typography variant="h3" align="center" className={classes.title}>
-                            Removing barriers to the sustained existence of black ai innovators
+                            Removing barriers to the sustained existence of Black in AI innovators
                         </Typography>
                     
                         <Typography variant="body1" className={classes.title}>

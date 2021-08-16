@@ -67,7 +67,7 @@ const valueslist = [
     },
     {
         id: 2, title: '3000',
-        text: 'We’ve grown from a small facebook group to a global movement comprising 3000 community members & allies who believe that more black people should shape the direction of the field of AI.'
+        text: 'We’ve grown from a small facebook group to a global movement comprising 3000 community members & allies who believe that more Black people should shape the direction of the field of AI.'
     },
     {
         id: 3, title: '10+',

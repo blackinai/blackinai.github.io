@@ -179,7 +179,7 @@ function Navbar(props) {
                     path: '/#/partnership',
                 },
                 {
-                    text: 'Share Job Opportunities',
+                    text: 'Share Opportunities',
                     path: 'https://docs.google.com/forms/d/e/1FAIpQLSdMcCerEXj45B_FrCrbIMhTHAO4MU5n00tl978a_bRFTfRanw/viewform',
                 }    
             ],
@@ -270,7 +270,7 @@ function Navbar(props) {
         </div>
     );
 
-    const brandComponent = <Link underline="none" className={classes.left} href="/"><img src={logo} width={80} alt="The raised fist, the black in AI logo." /></Link>;
+    const brandComponent = <Link underline="none" className={classes.left} href="/"><img src={logo} width={80} alt="The raised fist, the Black in AI logo." /></Link>;
 
 
     return (
