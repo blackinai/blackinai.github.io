@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "326f9a6404c6c6934467bd750dfc6d64",
+    "revision": "b92d102a7490c759a9d244d6ccf033cc",
     "url": "/index.html"
   },
   {
-    "revision": "6daca212cf1de29d9ab2",
+    "revision": "245fe4a3a8638027e266",
     "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
-    "revision": "4109da37b2600a29c595",
-    "url": "/static/js/2.cf72bd4e.chunk.js"
+    "revision": "e199aa8808c4805468d1",
+    "url": "/static/js/2.8054973e.chunk.js"
   },
   {
     "revision": "07e7d93b3ea2e95bc7f9f8835c2e3482",
-    "url": "/static/js/2.cf72bd4e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8054973e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6daca212cf1de29d9ab2",
-    "url": "/static/js/main.91668067.chunk.js"
+    "revision": "245fe4a3a8638027e266",
+    "url": "/static/js/main.cc1daefc.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -310,6 +310,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc0a0fc9974da505823219c2c9de187f",
     "url": "/static/media/montreal_convention_centre.cc0a0fc9.jpg"
+  },
+  {
+    "revision": "0ab6eb5d32d8f00077c8d0f7a46af1cb",
+    "url": "/static/media/neuripslogo.0ab6eb5d.png"
   },
   {
     "revision": "76e05a279f8f44d5d29a154da46ac7de",
