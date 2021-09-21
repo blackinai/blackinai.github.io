@@ -12,6 +12,7 @@ import Conferences from './pages/BaiWorkshops/AllConferences';
 import BAI2017 from './pages/BaiWorkshops/BAI2017';
 import BAI2018 from './pages/BaiWorkshops/BAI2018';
 import BAI2019 from './pages/BaiWorkshops/BAI2019';
+import BAI2021 from './pages/BaiWorkshops/BAI2021';
 import FinancialSupport from './pages/FinancialSupport';
 import EntrepreneurshipProgram from './pages/EntrepreneurshipProgram';
 import SummerResearchPrograms from './pages/SummerResearchPrograms';
@@ -44,6 +45,7 @@ ReactDOM.render(
             <Route path="/workshop/bai2017" component={BAI2017} />
             <Route path="/workshop/bai2018" component={BAI2018} />
             <Route path="/workshop/bai2019" component={BAI2019} />
+            <Route path="/workshop/bai2021" component={BAI2021} />
             <Route path="/media" component={PressRoom} />
             <Route path="/events/social-naacl-2021" component={NAACL2021}/>
             <Route path="/events/social-icml-2021" component={ICML2021}/>

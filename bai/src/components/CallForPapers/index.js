@@ -48,22 +48,22 @@ const styles = (theme) => ({
     }
 });
 
-// const ColorButton = withStyles((theme) => ({
-//     root: {
-//         color: theme.palette.getContrastText(theme.palette.primary.dark),
-//         backgroundColor: theme.palette.primary.dark,
-//         '&:hover': {
-//             backgroundColor: theme.palette.primary.dark,
-//         },
-//     },
-//     secundary: {
-//         color: theme.palette.getContrastText(theme.palette.primary.light),
-//         backgroundColor: theme.palette.primary.dark,
-//         '&:hover': {
-//             backgroundColor: theme.palette.primary.dark,
-//         },
-//     },
-// }))(Button);
+const ColorButton = withStyles((theme) => ({
+    root: {
+        color: theme.palette.getContrastText(theme.palette.primary.dark),
+        backgroundColor: theme.palette.primary.dark,
+        '&:hover': {
+            backgroundColor: theme.palette.primary.dark,
+        },
+    },
+    secundary: {
+        color: theme.palette.getContrastText(theme.palette.primary.light),
+        backgroundColor: theme.palette.primary.dark,
+        '&:hover': {
+            backgroundColor: theme.palette.primary.dark,
+        },
+    },
+}))(Button);
 
 function CallForPapers(props) {
     const { classes } = props;
@@ -82,7 +82,7 @@ function CallForPapers(props) {
                                 <div className={classes.item}>
                                 <Typography variant="h2" className={classes.title}>
                                     Black in AI Workshop 2021
-                                    Coming Soon
+                                    Call for Papers
                                 </Typography>
                                 </div>
                             </Grid>
@@ -94,12 +94,15 @@ function CallForPapers(props) {
 
                         The 5th Black in AI Workshop will be held virtually (co-located with NeurIPS 2021). 
                         We encourage individuals from Black, African, and Diasporic communities to join us and submit their work.
-                        <b> Deadlines, schedule and information for paper submission will be available soon. </b> 
-                        <a href="/#/conferences" target="_blank">Check out our previous events.</a>
+                        <b> Call for Paper Submission Opens on CMT: September 23, 2021. </b> 
+                        <a href="/#/conferences" target="_blank"> Check out more information about submissions and important dates.</a>
 
                         {/* <b className={classes.alert}> Submission deadline has NOW PASSED! </b>  */}
                         {/* <b> Authors of accepted papers will be notified after November 6th 2020.</b> */}
                     </Typography>
+                    <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2021">
+                        Call For Submissions
+                    </ColorButton>
                     {/* <ColorButton className={classes.chip} variant="contained" href="/talks2020">
                         BAI 2020 Invited Talks
                     </ColorButton>

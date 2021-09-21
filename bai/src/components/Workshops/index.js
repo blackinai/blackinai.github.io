@@ -89,9 +89,9 @@ function Workshops(props) {
     const workshops = [
         {
             img: require('./../../assets/img/general/convention_centre_sydney.jpeg'),
-            title: 'Black in AI 2021 - Coming Soon',
+            title: 'Black in AI 2021 - Call For Papers Submissions',
             width: '100%',
-            url: 'https://nips.cc/Conferences/2021/',
+            url: '/#/workshop/bai2021',
         },
         {
             img: require('./../../assets/img/general/vancouver_neurips_2020.jpg'),
