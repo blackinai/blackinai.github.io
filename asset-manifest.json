@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.615b23a3.chunk.css",
-    "main.js": "/static/js/main.cc1daefc.chunk.js",
-    "main.js.map": "/static/js/main.cc1daefc.chunk.js.map",
+    "main.js": "/static/js/main.13d21155.chunk.js",
+    "main.js.map": "/static/js/main.13d21155.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.8054973e.chunk.js": "/static/js/2.8054973e.chunk.js",
-    "static/js/2.8054973e.chunk.js.map": "/static/js/2.8054973e.chunk.js.map",
+    "static/js/2.879b3727.chunk.js": "/static/js/2.879b3727.chunk.js",
+    "static/js/2.879b3727.chunk.js.map": "/static/js/2.879b3727.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0591a1fd8bb7f689ddebe0721ceea3b5.js": "/precache-manifest.0591a1fd8bb7f689ddebe0721ceea3b5.js",
+    "precache-manifest.07baa9773d935d8e01ca97daeb5858f8.js": "/precache-manifest.07baa9773d935d8e01ca97daeb5858f8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.615b23a3.chunk.css.map": "/static/css/main.615b23a3.chunk.css.map",
-    "static/js/2.8054973e.chunk.js.LICENSE.txt": "/static/js/2.8054973e.chunk.js.LICENSE.txt",
+    "static/js/2.879b3727.chunk.js.LICENSE.txt": "/static/js/2.879b3727.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.30fade4a.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.aa162cc2.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -19,6 +19,7 @@
     "static/media/CallForPapers2017.md": "/static/media/CallForPapers2017.f9af3292.md",
     "static/media/CallForPapers2018.md": "/static/media/CallForPapers2018.9b28a24a.md",
     "static/media/CallForPapers2019.md": "/static/media/CallForPapers2019.6e9c7d40.md",
+    "static/media/CallForSubmissions.md": "/static/media/CallForSubmissions.02117801.md",
     "static/media/CharlesIsbell.jpg": "/static/media/CharlesIsbell.de6e3266.jpg",
     "static/media/DevinGuillory.jpg": "/static/media/DevinGuillory.32066185.jpg",
     "static/media/EntrepreneurshipProgram.md": "/static/media/EntrepreneurshipProgram.07808f54.md",
@@ -99,8 +100,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.8054973e.chunk.js",
+    "static/js/2.879b3727.chunk.js",
     "static/css/main.615b23a3.chunk.css",
-    "static/js/main.cc1daefc.chunk.js"
+    "static/js/main.13d21155.chunk.js"
   ]
 }
