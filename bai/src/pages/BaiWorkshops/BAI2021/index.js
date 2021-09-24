@@ -12,7 +12,7 @@ import CallForSubmissions2021 from './../../../posts/bai2021/CallForSubmissions.
 // import Sponsors2019 from './../../../posts/bai2019/Sponsors2019.md';
 import ContentFile from '../../../components/Markdown/readfile';
 import WorkshopPageHeader from '../../../components/WorkshopPageHeader';
-import image from './../../../assets/img/general/convention_centre_sydney.jpeg';
+import image from './../../../assets/img/general/header-bai-2021.png';
 import Loader from '../../../loader';
 
 function BAI2021() {

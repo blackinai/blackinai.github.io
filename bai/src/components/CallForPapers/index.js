@@ -94,7 +94,7 @@ function CallForPapers(props) {
 
                         The 5th Black in AI Workshop will be held virtually (co-located with NeurIPS 2021). 
                         We encourage individuals from Black, African, and Diasporic communities to join us and submit their work.
-                        <b> Call for Paper Submission Opens on CMT: September 27, 2021. </b> 
+                        <b> Call for Paper Submission Opens on CMT: September 24, 2021. </b> 
                         <a href="/#/conferences" target="_blank"> Check out more information about submissions and important dates.</a>
 
                         {/* <b className={classes.alert}> Submission deadline has NOW PASSED! </b>  */}
