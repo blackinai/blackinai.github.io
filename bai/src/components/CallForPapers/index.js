@@ -103,6 +103,9 @@ function CallForPapers(props) {
                     <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2021">
                         Call For Submissions
                     </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/XCqfvms9QuF1RqNS8">
+                        Call For Reviewer/Area Chair
+                    </ColorButton>
                     {/* <ColorButton className={classes.chip} variant="contained" href="/talks2020">
                         BAI 2020 Invited Talks
                     </ColorButton>
