@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecbcefca18fbd7e9be6e54bd14de31b1",
+    "revision": "74290982476e7f543cdf90963c0939aa",
     "url": "/index.html"
   },
   {
-    "revision": "2ccce6f77a8e33510aa9",
+    "revision": "a39b7e669e8429fa431a",
     "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.879b3727.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ccce6f77a8e33510aa9",
-    "url": "/static/js/main.13d21155.chunk.js"
+    "revision": "a39b7e669e8429fa431a",
+    "url": "/static/js/main.9195be0f.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CallForPapers2019.6e9c7d40.md"
   },
   {
-    "revision": "0211780105a527308d9dd95e2712edd9",
-    "url": "/static/media/CallForSubmissions.02117801.md"
+    "revision": "471f54edd34ec19adaeedb2f68073019",
+    "url": "/static/media/CallForSubmissions.471f54ed.md"
   },
   {
     "revision": "de6e3266fe71ba841ce39cdb3de11dac",
