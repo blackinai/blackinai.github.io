@@ -40,4 +40,8 @@ Registration starts on September 24, 2021. We strongly encourage workshop attend
 - **Notification of Call for paper acceptance:**
     - October 24, 2021
 
-## Submit your work at [BLACKINAI2021](https://cmt3.research.microsoft.com/BAI2021)
+## Submissions
+--- 
+### Submit your work at [BLACKINAI2021](https://cmt3.research.microsoft.com/BAI2021)
+
+Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url)
