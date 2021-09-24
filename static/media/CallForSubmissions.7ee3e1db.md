@@ -1,9 +1,9 @@
-##### Last updated on Sep 21, 2021
+##### Last updated on Sep 24, 2021
 
 ## Call For Papers Submissions
 ---
 
-We invite submissions for the Fifth Black in AI Workshop (Virtual) Workshop (co-located with [NeurIPS 2021](https://nips.cc/). Both the Black in AI workshop and the NeurIPS conference will be held in a virtual (online) format.
+We invite submissions for the Fifth Black in AI Workshop (Virtual) co-located with [NeurIPS 2021](https://nips.cc/). Both the Black in AI workshop and the NeurIPS conference will be held in a virtual (online) format.
 
 We welcome research papers, position papers, survey papers, vision papers, or papers that inform about neglected/abandoned areas of study where AI could be impactful. Papers may introduce new theory, methodology, applications or product demonstrations. Papers are published in a non-archival format and may have been published in other venues before or be published in other venues in the future.
 
@@ -34,8 +34,10 @@ Registration starts on September 24, 2021. We strongly encourage workshop attend
 ### Important Dates
 ----
 - **Call for Paper Submission Opens on CMT:**
-    - September 27, 2021
+    - September 24, 2021
 - **Call for Paper Submission Deadline:**
     - October 14 , 2021, 11:59 PM UTC
 - **Notification of Call for paper acceptance:**
     - October 24, 2021
+
+## Submit your work at [BLACKINAI2021](https://cmt3.research.microsoft.com/BAI2021)
