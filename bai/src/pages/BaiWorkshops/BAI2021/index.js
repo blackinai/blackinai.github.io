@@ -4,10 +4,10 @@ import Navbar from '../../../components/Navbar';
 import { ThemeProvider } from '@material-ui/core';
 import theme from '../../../theme';
 import withRoot from '../../../withRoot';
-import CallForSubmissions2021 from './../../../posts/bai2021/CallForSubmissions.md';
+import CallForPapers2021 from './../../../posts/bai2021/CallForPapers2021.md';
+import Submissions2021 from './../../../posts/bai2021/Submissions2021.md';
 // import Grants2019 from './../../../posts/bai2019/Grants2019.md';
 // import Organizers2019 from './../../../posts/bai2019/Organizers2019.md';
-// import Submissions2019 from './../../../posts/bai2019/Submissions2019.md';
 // import Programs2019 from './../../../posts/bai2019/Programs2019.md';
 // import Sponsors2019 from './../../../posts/bai2019/Sponsors2019.md';
 import ContentFile from '../../../components/Markdown/readfile';
@@ -21,10 +21,10 @@ function BAI2021() {
             <Loader />
             <Navbar />
             <WorkshopPageHeader src={image}/>
-            <ContentFile href={CallForSubmissions2021}>
+            <ContentFile href={CallForPapers2021}>
                 Black in AI 2021
             </ContentFile>
-            {/* <ContentFile href={Submissions2021}/> */}
+            <ContentFile href={Submissions2021}/>
             {/* <ContentFile href={Grants2019}/> */}
             {/* <ContentFile href={Programs2019}/> */}
             {/* <ContentFile href={Organizers2019}/> */}
