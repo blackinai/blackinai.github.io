@@ -17,9 +17,9 @@ Registration starts on September 24, 2021. We strongly encourage workshop attend
 - **Call for Paper Submission Opens on CMT:**
     - September 24, 2021
 - **Call for Paper Submission Deadline:**
-    - October 14 , 2021, 11:59 PM UTC
+    - October 22 , 2021, 11:59 PM UTC
 - **Notification of Call for paper acceptance:**
-    - October 24, 2021
+    - November 16, 2021
 
 ## Submissions
 --- 
