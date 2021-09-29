@@ -106,6 +106,9 @@ function CallForPapers(props) {
                     <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/XCqfvms9QuF1RqNS8">
                         Call For Reviewer/Area Chair
                     </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://neurips.cc/Surveys/61">
+                        Financial Assistance Application
+                    </ColorButton>
                     {/* <ColorButton className={classes.chip} variant="contained" href="/talks2020">
                         BAI 2020 Invited Talks
                     </ColorButton>
