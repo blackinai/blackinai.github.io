@@ -1,4 +1,4 @@
-##### Last updated on Jul 25, 2021
+##### Last updated on Oct 10, 2021
 
 ### Black in AI Community Announcements
 - <a href="https://nbviewer.jupyter.org/github/blackinai/blackinai.github.io/blob/main/bai/src/files/BlackinAIPresident.pdf" target="_blank">Announcing New President of Black in AI</a>
