@@ -3,7 +3,8 @@
 ### Black in AI Community Announcements
 - <a href="https://nbviewer.jupyter.org/github/blackinai/blackinai.github.io/blob/main/bai/src/files/BlackinAIPresident.pdf" target="_blank">Announcing New President of Black in AI</a>
 
-### General talking about Black in AI
+### Overview of the Movement
+- [Strengthening AI Diversity - MacArthur Foundation](https://www.macfound.org/press/grantee-stories/strengthening-ai-diversity)
 - [How one conference embraced diversity - Improvements to an AI event accused of sexism are long overdue](https://www.nature.com/articles/d41586-018-07718-x)
 - [Isaac Donnis talking about Black in AI (Ep.63) 'Black in AI' talks blacks in artificial intelligence, 4th industrial revolution + more at up and up network](https://www.youtube.com/watch?v=ci_OvmyZv34&t=517s)
 - [Why Artificial Intelligence Needs More Black Researchers](https://www.iphonelife.com/content/why-artificial-intelligence-needs-more-black-researchers)
