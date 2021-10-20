@@ -1,10 +1,12 @@
 ## Submission Format and Guidelines
 ---
 
-All submissions must be in PDF format. Submissions are limited to two content pages, including all figures and tables. An additional page containing only references is allowed.​ Submissions should be in a​ single column ​, typeset using ​11-point or larger fonts and have at least ​1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits. We encourage authors to use one of these templates to prepare their submission:
+All submissions must be in PDF format. Submissions are limited to **two** content pages, including all figures and tables. _An additional page containing only references is allowed_.​ Submissions should be in a​ single column ​, typeset using ​11-point or larger fonts and have at least ​1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits. We encourage authors to use one of these templates to prepare their submission:
 
 - [Overleaf template](https://www.overleaf.com/latex/templates/neurips-2020/mnshsmqkjsqz)
 - [Word template](https://drive.google.com/file/d/1NR0ac0u0BiE4xqnZpkShPF4zLSa3ASqw/view)
+- **Check out some samples here:** [BAI Sample Papers](https://github.com/blackinai/bai-sample-papers)
+- **And some resources that can be useful when writing your paper:** [Black in AI Help](https://rabeshi.github.io/blackhelp/overview.html)
 
 
 ### Registration
@@ -15,7 +17,7 @@ Registration starts on September 24, 2021. We strongly encourage workshop attend
 ### Important Dates
 ----
 - **Call for Paper Submission Opens on CMT:**
-    - September 24, 2021
+    - ~~September 24, 2021~~
 - **Call for Paper Submission Deadline:**
     - October 22 , 2021, 11:59 PM UTC
 - **Notification of Call for paper acceptance:**
