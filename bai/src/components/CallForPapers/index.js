@@ -89,12 +89,22 @@ function CallForPapers(props) {
                     </Grid> 
                     
                     <Typography variant="body1" className={classes.title}>
-                        Black researchers in AI, ML and related application areas (health, agriculture, politics, economics, law etc.) 
-                        are welcome to submit their work.
+                        The 5th Black in AI Workshop will be held virtually (co-located with NeurIPS 2021) on December 10th.
+                        The workshop will feature invited talks from prominent researchers and practitioners and a poster session. 
+                        We invite all members of the AI community to attend the workshop. Registration for the Workshop 
+                        <a href="https://blackinai-workshop2021.eventbrite.com.br" target="_blank" rel="noopener noreferrer">HERE.</a>
+                        <br/>
 
-                        The 5th Black in AI Workshop will be held virtually (co-located with NeurIPS 2021). 
-                        We encourage individuals from Black, African, and Diasporic communities to join us and submit their work.
-                        <b> Call for Paper Submission Opens on CMT: September 24, 2021. </b> 
+                        Black researchers in AI, ML and related application areas (health, agriculture, politics, economics, law etc.) 
+                        are welcome to submit their work. We encourage individuals from Black, African, and Diasporic communities to join us and submit their work.
+                        
+                        <br/>
+                        <b> <s>Call for Paper Submission Deadline on October 22 , 2021, 11:59 PM UTC</s></b> 
+                        <br/>
+                        <font color="red">  
+                            <b>Paper Submission Deadline EXTENDED to October 29 , 2021, 11:59 PM UTC </b>
+                        </font>
+                        <br/>
                         <a href="/#/conferences" target="_blank"> Check out more information about submissions and important dates.</a>
 
                         {/* <b className={classes.alert}> Submission deadline has NOW PASSED! </b>  */}
@@ -105,6 +115,9 @@ function CallForPapers(props) {
                     </ColorButton>
                     <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/XCqfvms9QuF1RqNS8">
                         Call For Reviewer/Area Chair
+                    </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://blackinai-workshop2021.eventbrite.com.br">
+                        Workshop Eventbrite Registration
                     </ColorButton>
                     <br/>
                     <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/TUwckbnmXU64oaH49">
