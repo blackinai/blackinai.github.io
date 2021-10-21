@@ -11,7 +11,15 @@ All submissions must be in PDF format. Submissions are limited to **two** conten
 
 ### Registration
 --- 
-Registration starts on September 24, 2021. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found [here](https://nips.cc/accounts/login/?next=/Profile).
+Registration starts on September 24, 2021. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found [here](https://neurips.cc/Register2).
+
+<font color="blue">
+    <b>
+        NeurIPS provides financial support to our community. Students with accepted papers are particularly encouraged to apply. The applications will close on November 26, 2021. If you are interested, please fill this form:
+    </b>
+</font>
+
+**Financial Assistance Application: neurips.cc/Surveys/61](https://neurips.cc/Surveys/61)**
 
 
 ### Important Dates
@@ -19,7 +27,10 @@ Registration starts on September 24, 2021. We strongly encourage workshop attend
 - **Call for Paper Submission Opens on CMT:**
     - ~~September 24, 2021~~
 - **Call for Paper Submission Deadline:**
-    - October 22 , 2021, 11:59 PM UTC
+    - ~~October 22, 2021 - 11:59 PM UTC~~
+    - <font color="red">  
+        <b>Submission Deadline EXTENDED to October 29, 2021 - 11:59 PM UTC </b>
+    </font>
 - **Notification of Call for paper acceptance:**
     - November 16, 2021
 
