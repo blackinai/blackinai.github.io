@@ -113,11 +113,11 @@ function CallForPapers(props) {
                     <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2021">
                         Call For Submissions
                     </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/NG55PdzbLJRjk7eo9">
+                        Call For Startups
+                    </ColorButton>
                     <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/XCqfvms9QuF1RqNS8">
                         Call For Reviewer/Area Chair
-                    </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="https://blackinai-workshop2021.eventbrite.com.br">
-                        Workshop Eventbrite Registration
                     </ColorButton>
                     <br/>
                     <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/TUwckbnmXU64oaH49">
@@ -125,6 +125,9 @@ function CallForPapers(props) {
                     </ColorButton>
                     <ColorButton className={classes.chip} variant="contained" href="https://neurips.cc/Surveys/61">
                         Financial Assistance Application
+                    </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://blackinai-workshop2021.eventbrite.com.br">
+                        Workshop Eventbrite Registration
                     </ColorButton>
                     {/* 
                     <ColorButton className={classes.chip} variant="contained" href="/schedule2020">
