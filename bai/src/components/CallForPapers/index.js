@@ -106,36 +106,10 @@ function CallForPapers(props) {
                         </font>
                         <br/>
                         <a href="/#/conferences" target="_blank"> Check out more information about submissions and important dates.</a>
-
-                        {/* <b className={classes.alert}> Submission deadline has NOW PASSED! </b>  */}
-                        {/* <b> Authors of accepted papers will be notified after November 6th 2020.</b> */}
                     </Typography>
-                    <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2021">
-                        Call For Submissions
+                    <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2021/">
+                        Full Details
                     </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/NG55PdzbLJRjk7eo9">
-                        Call For Startups
-                    </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/XCqfvms9QuF1RqNS8">
-                        Call For Reviewer/Area Chair
-                    </ColorButton>
-                    <br/>
-                    <ColorButton className={classes.chip} variant="contained" href="https://forms.gle/TUwckbnmXU64oaH49">
-                        Call For Volunteers
-                    </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="https://neurips.cc/Surveys/61">
-                        Financial Assistance Application
-                    </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="https://blackinai-workshop2021.eventbrite.com.br">
-                        Workshop Eventbrite Registration
-                    </ColorButton>
-                    {/* 
-                    <ColorButton className={classes.chip} variant="contained" href="/schedule2020">
-                        BAI NeurIPS 2020 Schedule
-                    </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="/datagrant2020">
-                        NeurIPS Registration Assistance and Data Grants
-                    </ColorButton> */}
                 </Grid>
             </Container>
         </section>
