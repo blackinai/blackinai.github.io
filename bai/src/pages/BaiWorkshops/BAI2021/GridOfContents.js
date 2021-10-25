@@ -2,8 +2,7 @@ import { ButtonBase, Container } from '@material-ui/core/';
 import { withStyles } from '@material-ui/core/styles';
 import PropTypes from 'prop-types';
 import React from 'react';
-import Typography from '../Typography';
-
+import Typography from '../../../components/Typography';
 
 const styles = (theme) => ({
     root: {
@@ -83,46 +82,66 @@ const styles = (theme) => ({
     },
 });
 
-function Workshops(props) {
+function GridOfContents(props) {
     const { classes } = props;
 
     const workshops = [
         {
-            img: require('./../../assets/img/general/convention_centre_sydney.jpeg'),
-            title: 'Black in AI 2021',
-            width: '100%',
-            url: '/#/workshop/bai2021',
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Workshop Eventbrite Registration',
+            width: '33.3%',
+            url: 'https://blackinai-workshop2021.eventbrite.com.br',
         },
         {
-            img: require('./../../assets/img/general/vancouver_neurips_2020.jpg'),
-            title: 'Black in AI 2020',
-            width: '100%',
-            url: 'https://blackinai2020.vercel.app/',
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Call For Paper Submissions',
+            width: '33.3%',
+            url: '/#/workshop/bai2021-cfp',
         },
         {
-            img: require('./../../assets/img/general/vancouver_convention_center.jpg'),
-            title: 'Black in AI 2019',
-            width: '30%',
-            url: '/#/workshop/bai2019',
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Call For Startups',
+            width: '33.3%',
+            url: '/#/workshop/bai2021-call-for-startups',
         },
         {
-            img: require('./../../assets/img/general/montreal_convention_centre.jpg'),
-            title: 'Black in AI 2018',
-            width: '40%',
-            url: '/#/workshop/bai2018',
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Call For Reviewer/Area Chair',
+            width: '33.3%',
+            url: 'https://forms.gle/XCqfvms9QuF1RqNS8',
         },
         {
-            img: require('./../../assets/img/general/renaissance_long_beach_hotel.jpg'),
-            title: 'Black in AI 2017',
-            width: '30%',
-            url: '/#/workshop/bai2017',
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Call For Volunteers',
+            width: '33.3%',
+            url: 'https://forms.gle/TUwckbnmXU64oaH49',
+        },
+        {
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Financial Assistance Application',
+            width: '33.3%',
+            url: 'https://neurips.cc/Surveys/61',
+        },
+        {
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Meet the BAI 2021 Organizers',
+            width: '49.9%',
+            url: '/',
+        },
+        {
+            img: require('./../../../assets/img/general/blackinai2021.png'),
+            title: 'Workshop Schedule - Coming Soon',
+            width: '50%',
+            url: '/',
         },
     ];
 
     return (
         <Container className={classes.root} component="section">
             <Typography variant="h4" marked="center" align="center" component="h2">
-                Black in AI Workshops
+                The 5th Black in AI Workshop will be held virtually (co-located with NeurIPS 2021) on December 10th.
+                The workshop will feature invited talks from prominent researchers and practitioners, a poster session and a startups showcase. 
+                We invite all members of the AI community to attend the workshop.
             </Typography>
             <div className={classes.images}>
                 {workshops.map((key) => (
@@ -142,8 +161,8 @@ function Workshops(props) {
     );
 }
 
-Workshops.propTypes = {
+GridOfContents.propTypes = {
     classes: PropTypes.object.isRequired,
 };
 
-export default withStyles(styles)(Workshops);
+export default withStyles(styles)(GridOfContents);
