@@ -126,7 +126,7 @@ function GridOfContents(props) {
             img: require('./../../../assets/img/general/blackinai2021.png'),
             title: 'Meet the BAI 2021 Organizers',
             width: '49.9%',
-            url: '/',
+            url: '/#/workshop/bai2021-organizers',
         },
         {
             img: require('./../../../assets/img/general/blackinai2021.png'),
