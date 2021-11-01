@@ -102,7 +102,7 @@ function CallForPapers(props) {
                         <b> <s>Call for Paper Submission Deadline on October 22 , 2021, 11:59 PM UTC</s></b> 
                         <br/>
                         <font color="red">  
-                            <b>Paper Submission Deadline EXTENDED to October 29 , 2021, 11:59 PM UTC </b>
+                            <b>Paper Submission Deadline EXTENDED to <s>October 29</s> November 1st, 2021, 11:59 PM UTC </b>
                         </font>
                         <br/>
                         <a href="/#/conferences" target="_blank"> Check out more information about submissions and important dates.</a>

@@ -29,7 +29,7 @@ Registration starts on September 24, 2021. We strongly encourage workshop attend
 - **Call for Paper Submission Deadline:**
     - ~~October 22, 2021 - 11:59 PM UTC~~
     - <font color="red">  
-        <b>Submission Deadline EXTENDED to October 29, 2021 - 11:59 PM UTC </b>
+        <b>Submission Deadline EXTENDED to <s>October 29</s> November 1st, 2021 - 11:59 PM UTC </b>
     </font>
 - **Notification of Call for paper acceptance:**
     - November 16, 2021
