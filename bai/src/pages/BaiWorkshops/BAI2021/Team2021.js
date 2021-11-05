@@ -20,6 +20,7 @@ import mirian from '../../../assets/img/team/mirian.png';
 import cameron from '../../../assets/img/team/cameron_clarke.jpeg';
 import irenenandutu from '../../../assets/img/team/irene.png';
 import michael from '../../../assets/img/team/michaelMelese.jpeg';
+import ham from '../../../assets/img/team/hameed.jpg'; 
 
 const styles = (theme) => ({
     root: {
@@ -52,12 +53,12 @@ const styles = (theme) => ({
         color: theme.palette.primary.dark,
     },
     card: {
-        height: '350px',
+        height: '300px',
         marginTop: theme.spacing(1),
         marginBottom: theme.spacing(8),
     },
     cardtwo: {
-        height: '420px',
+        height: '320px',
         marginTop: theme.spacing(1),
         marginBottom: theme.spacing(5),
     },
@@ -75,16 +76,6 @@ const teamlist = [
         link_2: 'cameroncclarke.com'
     },
     {
-        image: mirian,
-        title: 'Mírian Silva', 
-        subtitle: 'Master\'s Student @UFMG | IBM Research',
-        bio: 'Mirian (She/Her) is an AI Research Engineer at IBM Research. She is a producer and instructor at Coursera, where she teaches Guided Projects. Currently MSc student in Computer Science at the Federal University of Minas Gerais, Brazil. She holds a BSc. in Computational Mathematics from the same university. Her research interests include broadly AI/ML, with a special focus on Privacy, AI Fairness, and Math Applied.',
-        icon_1: <FontAwesomeIcon icon={["fab", "twitter"]}/>,
-        icon_2: <FontAwesomeIcon icon={["fa", "link"]}/>,
-        link_1: 'https://twitter.com/mirianfrsilva',
-        link_2: 'https://mirianfsilva.github.io/'
-    },
-    {
         image: irenenandutu,
         title: 'Irene Nandutu', 
         subtitle: 'PhD Student at Rhodes University',
@@ -94,9 +85,29 @@ const teamlist = [
         link_1: 'https://www.linkedin.com/in/irene-nandutu-a7792873/',
         link_2: 'https://twitter.com/irenenanduttu'
     },
+    {
+        image: ham,
+        title: 'Hameed Abdul', 
+        subtitle: 'PhD student at the University of Illinois at Urbana-Champaign',
+        bio: 'Hameed is PhD student at the University of Illinois at Urbana-Champaign. He is broadly interested in the practical intersection of Representation Learning, Computer Vision, and Reinforcement Learning for Robotic Applications.',
+        icon_1: <FontAwesomeIcon icon={["fa", "link"]}/>,
+        icon_2: <FontAwesomeIcon icon={["fab", "twitter"]}/>,
+        link_1: 'https://hammania689.github.io/',
+        link_2: 'https://twitter.com/_deprivedchild'
+    },
 ];
 
 const secondList = [
+    {
+        image: mirian,
+        title: 'Mírian Silva', 
+        subtitle: 'Master\'s Student @UFMG | AI Engineer at IBM Research',
+        bio: 'Mirian (She/Her) is an AI Research Engineer at IBM Research. She is a producer and instructor at Coursera, where she teaches Guided Projects. Currently MSc student in Computer Science at the Federal University of Minas Gerais, Brazil. She holds a BSc. in Computational Mathematics from the same university. Her research interests include broadly AI/ML, with a special focus on Privacy and Trustworthy AI.',
+        icon_1: <FontAwesomeIcon icon={["fab", "twitter"]}/>,
+        icon_2: <FontAwesomeIcon icon={["fa", "link"]}/>,
+        link_1: 'https://twitter.com/mirianfrsilva',
+        link_2: 'https://mirianfsilva.github.io/'
+    },
     {
         image: salomey,
         title: 'Salomey Osei', 
@@ -169,7 +180,7 @@ function TeamMembers(props) {
                             </Grid>
                         ))}
                         {secondList.map((tile) => (
-                            <Grid item xs={12} md={4}>
+                            <Grid item xs={12} md={6}>
                                 <Avatar alt={tile.title} src={tile.image} className={classes.avatarSize} />
                                 <Card className={classes.cardtwo}>
                                     <CardContent>
