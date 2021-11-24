@@ -34,6 +34,8 @@ Registration starts on September 24, 2021. We strongly encourage workshop attend
     </font>
 - **Notification of Call for paper acceptance:**
     - November 22, 2021
+- **Poster Submission Deadline for Accepted papers:**
+    - November 29, 2021
 
 ## Submissions
 --- 
