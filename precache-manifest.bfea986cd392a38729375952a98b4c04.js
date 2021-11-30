@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1d0e357b02199bb2577e319b201f4ca",
+    "revision": "dabe11939f253765d469019c08ceb0a0",
     "url": "/index.html"
   },
   {
-    "revision": "d62f8387c65ed91ceab0",
+    "revision": "93eef38a6b3a9c09f868",
     "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
-    "revision": "e631c05e92dcbc4f93f5",
-    "url": "/static/js/2.d26ec467.chunk.js"
+    "revision": "ba4c5e7a01cfbc294b13",
+    "url": "/static/js/2.1cca71d5.chunk.js"
   },
   {
     "revision": "07e7d93b3ea2e95bc7f9f8835c2e3482",
-    "url": "/static/js/2.d26ec467.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1cca71d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d62f8387c65ed91ceab0",
-    "url": "/static/js/main.7109bec4.chunk.js"
+    "revision": "93eef38a6b3a9c09f868",
+    "url": "/static/js/main.d91185b3.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -116,6 +116,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/KrystalMaughan.33df7756.jpg"
   },
   {
+    "revision": "eb7bac9df20f03ad77498b60df777328",
+    "url": "/static/media/Louvere.eb7bac9d.jpeg"
+  },
+  {
     "revision": "a99cc4513593d1f1221a32bc8ac11489",
     "url": "/static/media/MakindeAdeagbo.a99cc451.jpeg"
   },
@@ -134,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "742f5360fd811716ed88124fda27b421",
     "url": "/static/media/Organizers2019.742f5360.md"
+  },
+  {
+    "revision": "1dc99c16a5b91fed116cf3eeb7a82d07",
+    "url": "/static/media/Paul.1dc99c16.jpeg"
   },
   {
     "revision": "d6211c7923138fe3d6ac6adf69ceb4a5",
@@ -284,10 +292,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bmo.e2a27069.png"
   },
   {
-    "revision": "fa29f8611cd123935f0a2197c2f462a5",
-    "url": "/static/media/cameron_clarke.fa29f861.jpeg"
-  },
-  {
     "revision": "ed75bc60a65276994347dcf5ab50cee5",
     "url": "/static/media/cidade_do_mexico.ed75bc60.jpg"
   },
@@ -334,10 +338,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6918762bb95c7207297e8f7b4d0d69c4",
     "url": "/static/media/macArthur.6918762b.png"
-  },
-  {
-    "revision": "54c262b2c59e8a22e7d625179d3c0b08",
-    "url": "/static/media/michaelMelese.54c262b2.jpeg"
   },
   {
     "revision": "88f779eacd44edb6ad2317f8e629ba76",
