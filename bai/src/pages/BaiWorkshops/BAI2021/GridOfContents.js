@@ -94,7 +94,7 @@ function GridOfContents(props) {
         },
         {
             img: require('./../../../assets/img/general/blackinai2021.png'),
-            title: 'Call For Paper Submissions',
+            title: 'Call For Paper Submissions & Deadlines',
             width: '33.3%',
             url: '/#/workshop/bai2021-cfp',
         },

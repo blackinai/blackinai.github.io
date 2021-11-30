@@ -17,9 +17,7 @@ import image from './../../../assets/img/general/header-bai-2021.png';
 import foutse from '../../../assets/img/team/foutse.jpg';
 import salomey from '../../../assets/img/team/salomey.jpg';
 import mirian from '../../../assets/img/team/mirian.png';
-import cameron from '../../../assets/img/team/cameron_clarke.jpeg';
 import irenenandutu from '../../../assets/img/team/irene.png';
-import michael from '../../../assets/img/team/michaelMelese.jpeg';
 import ham from '../../../assets/img/team/hameed.jpg'; 
 
 const styles = (theme) => ({
@@ -65,16 +63,16 @@ const styles = (theme) => ({
 });
 
 const teamlist = [
-    {
-        image: cameron,
-        title: 'Cameron Clarke', 
-        subtitle: 'Applied Scientist (Marketplace Fairness), Uber | PhD Candidate, New York University',
-        bio: 'Cameron is an Applied Scientist on the Marketplace Fairness Research team at Uber, and a PhD Candidate in Philosophy at New York University. He is based in Brooklyn, NY, US.',
-        icon_1: <FontAwesomeIcon icon={["fab", "twitter"]}/>,
-        icon_2: <FontAwesomeIcon icon={["fa", "link"]}/>,
-        link_1: 'https://twitter.com/cameronc_clarke?lang=en',
-        link_2: 'cameroncclarke.com'
-    },
+    // {
+    //     image: cameron,
+    //     title: 'Cameron Clarke', 
+    //     subtitle: 'Applied Scientist (Marketplace Fairness), Uber | PhD Candidate, New York University',
+    //     bio: 'Cameron is an Applied Scientist on the Marketplace Fairness Research team at Uber, and a PhD Candidate in Philosophy at New York University. He is based in Brooklyn, NY, US.',
+    //     icon_1: <FontAwesomeIcon icon={["fab", "twitter"]}/>,
+    //     icon_2: <FontAwesomeIcon icon={["fa", "link"]}/>,
+    //     link_1: 'https://twitter.com/cameronc_clarke?lang=en',
+    //     link_2: 'cameroncclarke.com'
+    // },
     {
         image: irenenandutu,
         title: 'Irene Nandutu', 
@@ -118,14 +116,14 @@ const secondList = [
         link_1: 'https://twitter.com/NanaYaaSally',
         link_2: 'https://www.linkedin.com/in/salomey-osei-4b08a5b8/'
     },
-    {
-        image: michael,
-        title: 'Michael Melese Woldeyohannis', 
-        subtitle: 'Assistant Prof., Addis Ababa University',
-        bio: 'Michael Melese Woldeyohannis is an assistant professor at School of Information Science, Addis Ababa University. He completed his Ph.D. at the IT Doctoral program of Addis Ababa University, Addis Ababa, Ethiopia in 2019. His main research focuses on Natural Language Processing for the underrepresented African languages specifically in speech recognition and machine translation. He has done a number of publications on Machine Learning that intersect with natural language processing including ACL, EMNLP and LREC.',
-        icon_1: <FontAwesomeIcon icon={["fab", "facebook"]}/>,
-        link_1: 'https://www.facebook.com/michaelmelese/',
-    },
+    // {
+    //     image: michael,
+    //     title: 'Michael Melese Woldeyohannis', 
+    //     subtitle: 'Assistant Prof., Addis Ababa University',
+    //     bio: 'Michael Melese Woldeyohannis is an assistant professor at School of Information Science, Addis Ababa University. He completed his Ph.D. at the IT Doctoral program of Addis Ababa University, Addis Ababa, Ethiopia in 2019. His main research focuses on Natural Language Processing for the underrepresented African languages specifically in speech recognition and machine translation. He has done a number of publications on Machine Learning that intersect with natural language processing including ACL, EMNLP and LREC.',
+    //     icon_1: <FontAwesomeIcon icon={["fab", "facebook"]}/>,
+    //     link_1: 'https://www.facebook.com/michaelmelese/',
+    // },
     {
         image: foutse,
         title: 'Foutse Yuehgoh', 
@@ -159,7 +157,7 @@ function TeamMembers(props) {
                             </Typography>
                         </Grid>
                         {teamlist.map((tile) => (
-                            <Grid item xs={12} md={4}>
+                            <Grid item xs={12} md={6}>
                                 <Avatar alt={tile.title} src={tile.image} className={classes.avatarSize} />
                                 <Card className={classes.card}>
                                     <CardContent>

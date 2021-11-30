@@ -92,23 +92,27 @@ function CallForPapers(props) {
                         The 5th Black in AI Workshop will be held virtually (co-located with NeurIPS 2021) on December 10th.
                         The workshop will feature invited talks from prominent researchers and practitioners and a poster session. 
                         We invite all members of the AI community to attend the workshop. Registration for the Workshop 
-                        <a href="https://blackinai-workshop2021.eventbrite.com.br" target="_blank" rel="noopener noreferrer">HERE.</a>
-                        <br/>
 
                         Black researchers in AI, ML and related application areas (health, agriculture, politics, economics, law etc.) 
                         are welcome to submit their work. We encourage individuals from Black, African, and Diasporic communities to join us and submit their work.
                         
-                        <br/>
+                        {/* <br/>
                         <b> <s>Call for Paper Submission Deadline on October 22 , 2021, 11:59 PM UTC</s></b> 
                         <br/>
                         <font color="red">  
                             <b>Paper Submission Deadline EXTENDED to <s>October 29</s> November 1st, 2021, 11:59 PM UTC </b>
                         </font>
-                        <br/>
+                        <br/> */}
                         <a href="/#/conferences" target="_blank"> Check out more information about submissions and important dates.</a>
                     </Typography>
                     <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2021/">
                         Full Details
+                    </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://blackinai-workshop2021.eventbrite.com">
+                        Eventbrite Registration* for the Workshop
+                    </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="https://blackinai-workshop2021.eventbrite.com">
+                        Accepted Papers BAI 2021
                     </ColorButton>
                 </Grid>
             </Container>
