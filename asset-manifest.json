@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.615b23a3.chunk.css",
-    "main.js": "/static/js/main.2f09e596.chunk.js",
-    "main.js.map": "/static/js/main.2f09e596.chunk.js.map",
+    "main.js": "/static/js/main.d441494e.chunk.js",
+    "main.js.map": "/static/js/main.d441494e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
     "static/js/2.1cca71d5.chunk.js": "/static/js/2.1cca71d5.chunk.js",
     "static/js/2.1cca71d5.chunk.js.map": "/static/js/2.1cca71d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.310cd07258210b040ddb1c6748fa3a80.js": "/precache-manifest.310cd07258210b040ddb1c6748fa3a80.js",
+    "precache-manifest.f137c939bb67f0cbd8b12d24fe2743e4.js": "/precache-manifest.f137c939bb67f0cbd8b12d24fe2743e4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.615b23a3.chunk.css.map": "/static/css/main.615b23a3.chunk.css.map",
     "static/js/2.1cca71d5.chunk.js.LICENSE.txt": "/static/js/2.1cca71d5.chunk.js.LICENSE.txt",
@@ -37,7 +37,7 @@
     "static/media/KrystalMaughan.jpg": "/static/media/KrystalMaughan.33df7756.jpg",
     "static/media/Louvere.jpeg": "/static/media/Louvere.eb7bac9d.jpeg",
     "static/media/MakindeAdeagbo.jpeg": "/static/media/MakindeAdeagbo.a99cc451.jpeg",
-    "static/media/NAACL2021.md": "/static/media/NAACL2021.1a5e903d.md",
+    "static/media/NAACL2021.md": "/static/media/NAACL2021.9426cd46.md",
     "static/media/Organizers2017.md": "/static/media/Organizers2017.14992bd2.md",
     "static/media/Organizers2018.md": "/static/media/Organizers2018.399557f7.md",
     "static/media/Organizers2019.md": "/static/media/Organizers2019.742f5360.md",
@@ -92,7 +92,7 @@
     "static/media/irene.png": "/static/media/irene.36635e62.png",
     "static/media/macArthur.png": "/static/media/macArthur.6918762b.png",
     "static/media/microsoft.png": "/static/media/microsoft.88f779ea.png",
-    "static/media/mirian.png": "/static/media/mirian.fb65e95d.png",
+    "static/media/mirian.jpg": "/static/media/mirian.b988fc99.jpg",
     "static/media/montreal_convention_centre.jpg": "/static/media/montreal_convention_centre.cc0a0fc9.jpg",
     "static/media/neuripslogo.png": "/static/media/neuripslogo.0ab6eb5d.png",
     "static/media/nvidia.png": "/static/media/nvidia.76e05a27.png",
@@ -112,6 +112,6 @@
     "static/js/runtime-main.da3b7693.js",
     "static/js/2.1cca71d5.chunk.js",
     "static/css/main.615b23a3.chunk.css",
-    "static/js/main.2f09e596.chunk.js"
+    "static/js/main.d441494e.chunk.js"
   ]
 }

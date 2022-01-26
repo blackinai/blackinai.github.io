@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e83176f6ee02cac8e2c85e24a15b4ace",
+    "revision": "5627f81fca76d2478873ddd4ac55cf8c",
     "url": "/index.html"
   },
   {
-    "revision": "9da9a245cf909529a62d",
+    "revision": "0a5af2822dca2c0fc215",
     "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1cca71d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9da9a245cf909529a62d",
-    "url": "/static/js/main.2f09e596.chunk.js"
+    "revision": "0a5af2822dca2c0fc215",
+    "url": "/static/js/main.d441494e.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MakindeAdeagbo.a99cc451.jpeg"
   },
   {
-    "revision": "1a5e903da554ce9c0ff202cc30c6fc89",
-    "url": "/static/media/NAACL2021.1a5e903d.md"
+    "revision": "9426cd468360c20fff83331c544eb6da",
+    "url": "/static/media/NAACL2021.9426cd46.md"
   },
   {
     "revision": "14992bd2ea1c435a7642929572a49851",
@@ -344,8 +344,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/microsoft.88f779ea.png"
   },
   {
-    "revision": "fb65e95d0b9c69ba3136bd3f34452042",
-    "url": "/static/media/mirian.fb65e95d.png"
+    "revision": "b988fc99496d2c4a5ec75646c1723996",
+    "url": "/static/media/mirian.b988fc99.jpg"
   },
   {
     "revision": "cc0a0fc9974da505823219c2c9de187f",

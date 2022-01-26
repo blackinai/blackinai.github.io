@@ -115,7 +115,7 @@ _Any questions about our social, you can contact the organizers directly._
         <br/> Researcher, NLP Ghana
     </div>
     <div class="column">
-        <img src="https://github.com/blackinai/blackinai.github.io/blob/main/bai/src/assets/img/team/mirian.png?raw=true" alt="Mírian Silva"
+        <img src="https://github.com/blackinai/blackinai.github.io/blob/main/bai/src/assets/img/team/mirian.jpg?raw=true" alt="Mírian Silva"
         style="width: 150px; height: 150px; object-fit:cover; border-radius: 50%; border: solid 1px"/>
         <br/> <a href="https://mirianfsilva.github.io/" target="_blank">Mírian Silva</a>
         <br/> Experian LatAm
