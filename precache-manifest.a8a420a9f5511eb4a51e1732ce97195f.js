@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3404df7a0cd35806e467b55227bb59d",
+    "revision": "312478898795dfb4ac682a7cd96f50c8",
     "url": "/index.html"
   },
   {
-    "revision": "6d52d5ff97a848efec59",
+    "revision": "1643d508cb7793d12a54",
     "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
-    "revision": "ba4c5e7a01cfbc294b13",
-    "url": "/static/js/2.1cca71d5.chunk.js"
+    "revision": "05b85fb0acbf77dba358",
+    "url": "/static/js/2.89b35934.chunk.js"
   },
   {
     "revision": "07e7d93b3ea2e95bc7f9f8835c2e3482",
-    "url": "/static/js/2.1cca71d5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.89b35934.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d52d5ff97a848efec59",
-    "url": "/static/js/main.2a3cb162.chunk.js"
+    "revision": "1643d508cb7793d12a54",
+    "url": "/static/js/main.caddc199.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d8bb838d9527a8c0d28d62b179cc497",
     "url": "/static/media/AyannaHoward.4d8bb838.jpg"
+  },
+  {
+    "revision": "4a367fbfeb2b94e23659518341536ddb",
+    "url": "/static/media/BAI0penPosition.4a367fbf.md"
   },
   {
     "revision": "b1b79cace97205098fba97e47ba6758a",
@@ -140,8 +144,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Paul.1dc99c16.jpeg"
   },
   {
-    "revision": "d6211c7923138fe3d6ac6adf69ceb4a5",
-    "url": "/static/media/PressRoom.d6211c79.md"
+    "revision": "52aa656f0a519fd1aff82c2241a91d00",
+    "url": "/static/media/PressRoom.52aa656f.md"
   },
   {
     "revision": "2a5b5e6e2e8935fab1d0b453a5f2de68",
