@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.615b23a3.chunk.css",
-    "main.js": "/static/js/main.caddc199.chunk.js",
-    "main.js.map": "/static/js/main.caddc199.chunk.js.map",
+    "main.js": "/static/js/main.19ed99d5.chunk.js",
+    "main.js.map": "/static/js/main.19ed99d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.89b35934.chunk.js": "/static/js/2.89b35934.chunk.js",
-    "static/js/2.89b35934.chunk.js.map": "/static/js/2.89b35934.chunk.js.map",
+    "static/js/2.74f7a8ea.chunk.js": "/static/js/2.74f7a8ea.chunk.js",
+    "static/js/2.74f7a8ea.chunk.js.map": "/static/js/2.74f7a8ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a8a420a9f5511eb4a51e1732ce97195f.js": "/precache-manifest.a8a420a9f5511eb4a51e1732ce97195f.js",
+    "precache-manifest.2af9631b03f21d623393058d0d764016.js": "/precache-manifest.2af9631b03f21d623393058d0d764016.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.615b23a3.chunk.css.map": "/static/css/main.615b23a3.chunk.css.map",
-    "static/js/2.89b35934.chunk.js.LICENSE.txt": "/static/js/2.89b35934.chunk.js.LICENSE.txt",
+    "static/js/2.74f7a8ea.chunk.js.LICENSE.txt": "/static/js/2.74f7a8ea.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.30fade4a.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.aa162cc2.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -102,7 +102,6 @@
     "static/media/renaissance_long_beach_hotel.jpg": "/static/media/renaissance_long_beach_hotel.1404bde9.jpg",
     "static/media/salesforce.png": "/static/media/salesforce.aa4948c0.png",
     "static/media/salomey.jpg": "/static/media/salomey.3465b9dd.jpg",
-    "static/media/temp_file.md": "/static/media/temp_file.64083abf.md",
     "static/media/vancouver_convention_center.jpg": "/static/media/vancouver_convention_center.01aa3bae.jpg",
     "static/media/vancouver_neurips_2020.jpg": "/static/media/vancouver_neurips_2020.908e06c1.jpg",
     "static/media/victor.jpg": "/static/media/victor.d45e72f5.jpg",
@@ -111,8 +110,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.89b35934.chunk.js",
+    "static/js/2.74f7a8ea.chunk.js",
     "static/css/main.615b23a3.chunk.css",
-    "static/js/main.caddc199.chunk.js"
+    "static/js/main.19ed99d5.chunk.js"
   ]
 }
