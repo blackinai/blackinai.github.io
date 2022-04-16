@@ -1,5 +1,7 @@
-##### Last updated on Oct 25, 2021
+##### Last updated on Apr 16, 2021
 
+## Call For Startups
+---
 ### This year's workshop will also include a startup showcase. If you identify as black and are the founder of an AI company, apply [here](https://forms.gle/j7S7HMhH6Qe1RsHx8), if you are interested in helping with reviewing startups! Apply [here](https://forms.gle/kFV1PeJJYKHPiUCBA)
 
 As you know, Black in AI [started](https://www.macfound.org/press/grantee-stories/strengthening-ai-diversity) with academic roots and has historically focused on breaking down the barriers for black researchers to fully participate in the development of artificial intelligence. Through our yearly workshop we gather the brightest black minds in the field to showcase their work. As part of this mission, we have also grown a community of 4000 members across 50 countries, built a social media presence to highlight year round the amazing work coming out of this community and established an award-winning [academic program](https://www.radicalai.org/black-in-ai-academic-program) to help members of the community apply to graduate school, postdocs and faculty positions. We intend to grow in this area and stay close to our academic roots.

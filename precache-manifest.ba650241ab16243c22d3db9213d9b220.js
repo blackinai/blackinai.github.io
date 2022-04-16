@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "014e271e373974ac6a198f40b096baf3",
+    "revision": "4cb69ec460f4093603d6d79a753a520c",
     "url": "/index.html"
   },
   {
-    "revision": "410dadf13cdf21ee3aa2",
+    "revision": "c492ee13cec427461b9e",
     "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
-    "revision": "09b85ea179f7442033ac",
-    "url": "/static/js/2.74f7a8ea.chunk.js"
+    "revision": "1509d3ca87914ec3e1cf",
+    "url": "/static/js/2.b95986bc.chunk.js"
   },
   {
     "revision": "07e7d93b3ea2e95bc7f9f8835c2e3482",
-    "url": "/static/js/2.74f7a8ea.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b95986bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "410dadf13cdf21ee3aa2",
-    "url": "/static/js/main.fdce094d.chunk.js"
+    "revision": "c492ee13cec427461b9e",
+    "url": "/static/js/main.a5e03b12.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CallForPapers2021.74293cdd.md"
   },
   {
-    "revision": "26124c0fd70595049869beb2e9607558",
-    "url": "/static/media/CallForStartups2021.26124c0f.md"
+    "revision": "b6d8eece6c6ebbde2418d7173f3e6ad4",
+    "url": "/static/media/CallForStartups2021.b6d8eece.md"
   },
   {
     "revision": "de6e3266fe71ba841ce39cdb3de11dac",
