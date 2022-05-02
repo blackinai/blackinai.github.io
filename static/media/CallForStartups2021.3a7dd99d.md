@@ -8,7 +8,7 @@ As you know, Black in AI [started](https://www.macfound.org/press/grantee-storie
 
 Through working closely with members of the community and learning from their aspirations, we became aware of another area where we could play a bigger role: entrepreneurship. Many members here have started, are starting or will start technology companies based on recent advances in AI. The founder's journey comprises many highs and lows and we want to be here to support our entrepreneurs throughout their journey. As a step marking our desire to intentionally support these aspirations, we are excited to announce this year's workshop will include a startup showcase. 
 
-We expect to showcase 40 startups from the community through a 1h digital event and have 30 min of networking activities.  If you identify as black and are the founder of an AI company, apply here by October 31st 2021 for an opportunity to showcase your startup. 
+We expect to showcase a dozen startups from the community through a 1h digital event and have 30 min of networking activities.  If you identify as black and are the founder of an AI company, apply here by October 31st 2021 for an opportunity to showcase your startup. 
 
 **If you are an ally and/or want to help with reviewing startups, apply [here](https://forms.gle/kFV1PeJJYKHPiUCBA) by October 31st 2021.**
 
