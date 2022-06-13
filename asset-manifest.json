@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.772532b9.chunk.css",
-    "main.js": "/static/js/main.7ba6871b.chunk.js",
-    "main.js.map": "/static/js/main.7ba6871b.chunk.js.map",
+    "main.js": "/static/js/main.eedfa493.chunk.js",
+    "main.js.map": "/static/js/main.eedfa493.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
     "static/js/2.0b3b12c3.chunk.js": "/static/js/2.0b3b12c3.chunk.js",
     "static/js/2.0b3b12c3.chunk.js.map": "/static/js/2.0b3b12c3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.37e582a0d3b015b61240f724bb005fd4.js": "/precache-manifest.37e582a0d3b015b61240f724bb005fd4.js",
+    "precache-manifest.b10a4d7e6cf75233a9edd19302abc6f0.js": "/precache-manifest.b10a4d7e6cf75233a9edd19302abc6f0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.772532b9.chunk.css.map": "/static/css/main.772532b9.chunk.css.map",
     "static/js/2.0b3b12c3.chunk.js.LICENSE.txt": "/static/js/2.0b3b12c3.chunk.js.LICENSE.txt",
@@ -89,13 +89,13 @@
     "static/media/hai.png": "/static/media/hai.35a08513.png",
     "static/media/hameed.jpg": "/static/media/hameed.4b236a23.jpg",
     "static/media/header-bai-2021.png": "/static/media/header-bai-2021.b523fb7c.png",
+    "static/media/icml_logo.png": "/static/media/icml_logo.60746b7d.png",
     "static/media/image2.jpg": "/static/media/image2.b92980bf.jpg",
     "static/media/irene.png": "/static/media/irene.36635e62.png",
     "static/media/macArthur.png": "/static/media/macArthur.6918762b.png",
     "static/media/microsoft.png": "/static/media/microsoft.88f779ea.png",
     "static/media/mirian.jpg": "/static/media/mirian.b988fc99.jpg",
     "static/media/montreal_convention_centre.jpg": "/static/media/montreal_convention_centre.cc0a0fc9.jpg",
-    "static/media/neuripslogo.png": "/static/media/neuripslogo.0ab6eb5d.png",
     "static/media/nvidia.png": "/static/media/nvidia.76e05a27.png",
     "static/media/oracle.png": "/static/media/oracle.ba87c66f.png",
     "static/media/partnershipAi.png": "/static/media/partnershipAi.25cffd4f.png",
@@ -112,6 +112,6 @@
     "static/js/runtime-main.da3b7693.js",
     "static/js/2.0b3b12c3.chunk.js",
     "static/css/main.772532b9.chunk.css",
-    "static/js/main.7ba6871b.chunk.js"
+    "static/js/main.eedfa493.chunk.js"
   ]
 }

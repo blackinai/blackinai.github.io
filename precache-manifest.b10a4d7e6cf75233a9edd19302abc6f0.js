@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "751f4f7b1987d9d36a7fe159481aadb0",
+    "revision": "e9089c8d8df77ff16abd5fe7c3bbbe41",
     "url": "/index.html"
   },
   {
-    "revision": "c4a1221065c19efbf426",
+    "revision": "f5e68dd0ea6c21cd41ac",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0b3b12c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4a1221065c19efbf426",
-    "url": "/static/js/main.7ba6871b.chunk.js"
+    "revision": "f5e68dd0ea6c21cd41ac",
+    "url": "/static/js/main.eedfa493.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -332,6 +332,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/header-bai-2021.b523fb7c.png"
   },
   {
+    "revision": "60746b7daef474d8bcba9d184ebd9ad0",
+    "url": "/static/media/icml_logo.60746b7d.png"
+  },
+  {
     "revision": "b92980bfc7af1ea2615273c7c3b6a0f5",
     "url": "/static/media/image2.b92980bf.jpg"
   },
@@ -354,10 +358,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc0a0fc9974da505823219c2c9de187f",
     "url": "/static/media/montreal_convention_centre.cc0a0fc9.jpg"
-  },
-  {
-    "revision": "0ab6eb5d32d8f00077c8d0f7a46af1cb",
-    "url": "/static/media/neuripslogo.0ab6eb5d.png"
   },
   {
     "revision": "76e05a279f8f44d5d29a154da46ac7de",
