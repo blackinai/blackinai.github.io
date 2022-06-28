@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd359aca07745fc27aa92280987da2d6",
+    "revision": "a1bf71aedacf982d098b579f5f5ac1a7",
     "url": "/index.html"
   },
   {
-    "revision": "a0474db2352e098ad991",
+    "revision": "8559eb42c1f55671509b",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
-    "revision": "7473af7b24ef6addc225",
-    "url": "/static/js/2.0b3b12c3.chunk.js"
+    "revision": "0b34e6d6ba22fcf606ff",
+    "url": "/static/js/2.012ee05d.chunk.js"
   },
   {
     "revision": "8ba3cab10ee8b77dfd479ebf370ddbab",
-    "url": "/static/js/2.0b3b12c3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.012ee05d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0474db2352e098ad991",
-    "url": "/static/js/main.eea1321e.chunk.js"
+    "revision": "8559eb42c1f55671509b",
+    "url": "/static/js/main.fbceda11.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/AcademicProgram.30fade4a.md"
   },
   {
-    "revision": "aa162cc24e04f269d4433be6546c2e05",
-    "url": "/static/media/Advocacy.aa162cc2.md"
+    "revision": "7f0f7c9d3ff363179d6339618df11929",
+    "url": "/static/media/Advocacy.7f0f7c9d.md"
   },
   {
     "revision": "4d8bb838d9527a8c0d28d62b179cc497",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/DevinGuillory.32066185.jpg"
   },
   {
-    "revision": "07808f546cbbe0cd4c1ed31704e214bc",
-    "url": "/static/media/EntrepreneurshipProgram.07808f54.md"
+    "revision": "2683ec8c9aac7ad4f8a17f58517a0035",
+    "url": "/static/media/EntrepreneurshipProgram.2683ec8c.md"
   },
   {
     "revision": "7143c736a3bdca82744c68094b3cbde7",
@@ -126,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df3bff1294c149282c4622ab818f3329",
     "url": "/static/media/NAACL2021.df3bff12.md"
+  },
+  {
+    "revision": "7f83184ea4000c474292757f025df411",
+    "url": "/static/media/NielsRochet.7f83184e.png"
   },
   {
     "revision": "14992bd2ea1c435a7642929572a49851",
