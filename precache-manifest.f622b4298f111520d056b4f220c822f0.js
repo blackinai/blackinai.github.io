@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1bf71aedacf982d098b579f5f5ac1a7",
+    "revision": "e03db4e7194a9d7b1856f11a0da00f0d",
     "url": "/index.html"
   },
   {
-    "revision": "8559eb42c1f55671509b",
+    "revision": "c929a38fe8d58ab0e2a2",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
-    "revision": "0b34e6d6ba22fcf606ff",
-    "url": "/static/js/2.012ee05d.chunk.js"
+    "revision": "e7b5c2b886bb7cb0f11f",
+    "url": "/static/js/2.2e764fd7.chunk.js"
   },
   {
     "revision": "8ba3cab10ee8b77dfd479ebf370ddbab",
-    "url": "/static/js/2.012ee05d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2e764fd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8559eb42c1f55671509b",
-    "url": "/static/js/main.fbceda11.chunk.js"
+    "revision": "c929a38fe8d58ab0e2a2",
+    "url": "/static/js/main.bcd7c444.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "74293cdd9d986c499795acd8d9b85f6f",
     "url": "/static/media/CallForPapers2021.74293cdd.md"
+  },
+  {
+    "revision": "a900adc285073a8ed84890c4b497f1dc",
+    "url": "/static/media/CallForPapers2022.a900adc2.md"
   },
   {
     "revision": "3a7dd99d131ccba54f2326949b8e9786",
@@ -204,6 +208,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Submissions2021.df7addef.md"
   },
   {
+    "revision": "95f00cf70eea2753e315acf8351e87b2",
+    "url": "/static/media/Submissions2022.95f00cf7.md"
+  },
+  {
     "revision": "19bae1aa75fbfdc41d6fc8704e1f3094",
     "url": "/static/media/SummerResearchPrograms.19bae1aa.md"
   },
@@ -292,10 +300,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/berkeley.a8552979.png"
   },
   {
-    "revision": "f219a8c38b8f91556326a3f2aee23452",
-    "url": "/static/media/blackinai2021.f219a8c3.png"
-  },
-  {
     "revision": "e2a270691aecf499d8d4ea43882ce9e1",
     "url": "/static/media/bmo.e2a27069.png"
   },
@@ -336,6 +340,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/header-bai-2021.b523fb7c.png"
   },
   {
+    "revision": "00ea3a93722767527f52b3436abe8e46",
+    "url": "/static/media/header-bai-2022.00ea3a93.png"
+  },
+  {
     "revision": "60746b7daef474d8bcba9d184ebd9ad0",
     "url": "/static/media/icml_logo.60746b7d.png"
   },
@@ -362,6 +370,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc0a0fc9974da505823219c2c9de187f",
     "url": "/static/media/montreal_convention_centre.cc0a0fc9.jpg"
+  },
+  {
+    "revision": "0ab6eb5d32d8f00077c8d0f7a46af1cb",
+    "url": "/static/media/neuripslogo.0ab6eb5d.png"
+  },
+  {
+    "revision": "05e9f88e4c2ca7d4367ce9b75a3a2cd5",
+    "url": "/static/media/neworleans_convention_center.05e9f88e.jpeg"
   },
   {
     "revision": "76e05a279f8f44d5d29a154da46ac7de",
