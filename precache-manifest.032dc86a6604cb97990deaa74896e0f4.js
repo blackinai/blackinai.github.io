@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edb74e87b21917a6a7c993ca939b6398",
+    "revision": "4d2f9421007aec6eb217082ca7f60d6d",
     "url": "/index.html"
   },
   {
-    "revision": "993648c205eba454568c",
+    "revision": "387399fdef5af948d1b1",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
-    "revision": "e7b5c2b886bb7cb0f11f",
-    "url": "/static/js/2.2e764fd7.chunk.js"
+    "revision": "8511f868d06da5f80741",
+    "url": "/static/js/2.9dbbe3d2.chunk.js"
   },
   {
     "revision": "8ba3cab10ee8b77dfd479ebf370ddbab",
-    "url": "/static/js/2.2e764fd7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9dbbe3d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "993648c205eba454568c",
-    "url": "/static/js/main.8ad3eadc.chunk.js"
+    "revision": "387399fdef5af948d1b1",
+    "url": "/static/js/main.6c7ba768.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -224,20 +224,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/academic_programs.59347f21.jpg"
   },
   {
-    "revision": "675d63cc0f750402370f9ce2254d70de",
-    "url": "/static/media/ai2.675d63cc.png"
-  },
-  {
-    "revision": "68ef85032c3815dc34d1ebe5ac437e4c",
-    "url": "/static/media/amazon.68ef8503.png"
-  },
-  {
     "revision": "3a1df6c1e0644b8b1a12219346c3f013",
     "url": "/static/media/appCurvyLines.3a1df6c1.png"
   },
   {
-    "revision": "deab0c9d44c793d66cf1d03999e66c4b",
-    "url": "/static/media/apple.deab0c9d.png"
+    "revision": "d73d6c3553519fb8becffb05fe677631",
+    "url": "/static/media/apple.d73d6c35.png"
   },
   {
     "revision": "9b1dddf58a76db46590e9706bf401d38",
@@ -296,14 +288,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bai-logo.44f8f823.png"
   },
   {
-    "revision": "a8552979bb08d3d33b0f9eb012ba916f",
-    "url": "/static/media/berkeley.a8552979.png"
-  },
-  {
-    "revision": "e2a270691aecf499d8d4ea43882ce9e1",
-    "url": "/static/media/bmo.e2a27069.png"
-  },
-  {
     "revision": "ed75bc60a65276994347dcf5ab50cee5",
     "url": "/static/media/cidade_do_mexico.ed75bc60.jpg"
   },
@@ -312,24 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/convention_centre_sydney.77db7a77.jpeg"
   },
   {
-    "revision": "d52cbd521926bfbec1fbe523bd9f34bc",
-    "url": "/static/media/deepmind.d52cbd52.png"
-  },
-  {
-    "revision": "29b3c91223eed57301fe4d1dda20e572",
-    "url": "/static/media/facebook.29b3c912.png"
-  },
-  {
-    "revision": "3c97a11c4b1fce1cbfb390a78bca7d31",
-    "url": "/static/media/fordfoundation.3c97a11c.png"
-  },
-  {
     "revision": "b809d90eb5b04acb9c17b02556a840aa",
     "url": "/static/media/foutse.b809d90e.jpg"
-  },
-  {
-    "revision": "35a08513fc70c4aab9999b7308a249e6",
-    "url": "/static/media/hai.35a08513.png"
   },
   {
     "revision": "4b236a237bf75f1c72045cc2b8c9bd7f",
@@ -356,8 +324,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/irene.36635e62.png"
   },
   {
-    "revision": "6918762bb95c7207297e8f7b4d0d69c4",
-    "url": "/static/media/macArthur.6918762b.png"
+    "revision": "c42f984d2a43fbcb4157a9246b40e86b",
+    "url": "/static/media/meta.c42f984d.png"
   },
   {
     "revision": "88f779eacd44edb6ad2317f8e629ba76",
@@ -380,28 +348,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/neworleans_convention_center.05e9f88e.jpeg"
   },
   {
-    "revision": "76e05a279f8f44d5d29a154da46ac7de",
-    "url": "/static/media/nvidia.76e05a27.png"
-  },
-  {
     "revision": "ba87c66f5834bda10538d6750abf50d9",
     "url": "/static/media/oracle.ba87c66f.png"
-  },
-  {
-    "revision": "25cffd4fa4d3be84192adbf7918ee935",
-    "url": "/static/media/partnershipAi.25cffd4f.png"
   },
   {
     "revision": "1404bde904315962501808ebba96458c",
     "url": "/static/media/renaissance_long_beach_hotel.1404bde9.jpg"
   },
   {
-    "revision": "aa4948c05b4739b3530d43cfe0cb9b5c",
-    "url": "/static/media/salesforce.aa4948c0.png"
-  },
-  {
     "revision": "3465b9dd9d3d67d4412e659aa3e46d23",
     "url": "/static/media/salomey.3465b9dd.jpg"
+  },
+  {
+    "revision": "01118da05fc3d8466e3100c317ce8684",
+    "url": "/static/media/upstart.01118da0.png"
   },
   {
     "revision": "01aa3baecb7c8e9d66b619635dedf2ce",
