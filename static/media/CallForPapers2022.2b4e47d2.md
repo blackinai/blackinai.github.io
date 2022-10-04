@@ -1,4 +1,4 @@
-##### Last updated on Sep 23, 2022
+##### Last updated on Oct 4, 2022
 
 ## Call For Papers Submissions
 ---
@@ -35,7 +35,7 @@ Registration starts on Saturday, September 24th, 2022. We strongly encourage wor
 
 ## Important Dates
 - **Call for paper submission opens on CMT**  - September 22, 2022 
-- **Call for paper submission deadline** - October 03 , 2022, 11:59 pm UTC 
+- **Call for paper submission deadline EXTENDED** - ~~October 03 , 2022, 11:59 pm UTC~~ October 07, 2022, 11:59 pm UTC~
 - **Notification of Call for paper acceptance**  - October 31, 2022 
 
 Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url)
