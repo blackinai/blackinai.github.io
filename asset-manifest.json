@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.772532b9.chunk.css",
-    "main.js": "/static/js/main.4249259e.chunk.js",
-    "main.js.map": "/static/js/main.4249259e.chunk.js.map",
+    "main.js": "/static/js/main.21127f7c.chunk.js",
+    "main.js.map": "/static/js/main.21127f7c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.83e62240.chunk.js": "/static/js/2.83e62240.chunk.js",
-    "static/js/2.83e62240.chunk.js.map": "/static/js/2.83e62240.chunk.js.map",
+    "static/js/2.99d65c27.chunk.js": "/static/js/2.99d65c27.chunk.js",
+    "static/js/2.99d65c27.chunk.js.map": "/static/js/2.99d65c27.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5cac267bd7721afa5d779f321416e78e.js": "/precache-manifest.5cac267bd7721afa5d779f321416e78e.js",
+    "precache-manifest.d51ce8b4433b2eea82b6a73599a7189a.js": "/precache-manifest.d51ce8b4433b2eea82b6a73599a7189a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.772532b9.chunk.css.map": "/static/css/main.772532b9.chunk.css.map",
-    "static/js/2.83e62240.chunk.js.LICENSE.txt": "/static/js/2.83e62240.chunk.js.LICENSE.txt",
+    "static/js/2.99d65c27.chunk.js.LICENSE.txt": "/static/js/2.99d65c27.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.30fade4a.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.7f0f7c9d.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -70,7 +70,6 @@
     "static/media/bai-img-12.jpg": "/static/media/bai-img-12.e297713c.jpg",
     "static/media/bai-img-13.jpg": "/static/media/bai-img-13.27999d0a.jpg",
     "static/media/bai-img-14.jpg": "/static/media/bai-img-14.a6c0e419.jpg",
-    "static/media/bai-img-15.jpg": "/static/media/bai-img-15.e80868e2.jpg",
     "static/media/bai-img-2.jpg": "/static/media/bai-img-2.2706d95f.jpg",
     "static/media/bai-img-4.JPG": "/static/media/bai-img-4.a49f8281.JPG",
     "static/media/bai-img-5.jpg": "/static/media/bai-img-5.3196e416.jpg",
@@ -106,8 +105,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.83e62240.chunk.js",
+    "static/js/2.99d65c27.chunk.js",
     "static/css/main.772532b9.chunk.css",
-    "static/js/main.4249259e.chunk.js"
+    "static/js/main.21127f7c.chunk.js"
   ]
 }
