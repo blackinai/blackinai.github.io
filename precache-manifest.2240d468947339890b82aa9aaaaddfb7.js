@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "181cab3d30727d4682acaf3f570e2c3b",
+    "revision": "a903b7a4ab5780f265cb43057a4c48af",
     "url": "/index.html"
   },
   {
-    "revision": "5d5bba48f781a799c48c",
+    "revision": "8c98d75ae0a8026e5cdb",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
-    "revision": "4541650f314578089ecb",
-    "url": "/static/js/2.99d65c27.chunk.js"
+    "revision": "3cfff88ae44431078926",
+    "url": "/static/js/2.40866728.chunk.js"
   },
   {
     "revision": "392bf43edde2f55864ca8226587ec901",
-    "url": "/static/js/2.99d65c27.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.40866728.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d5bba48f781a799c48c",
-    "url": "/static/js/main.21127f7c.chunk.js"
+    "revision": "8c98d75ae0a8026e5cdb",
+    "url": "/static/js/main.e1d4b365.chunk.js"
   },
   {
     "revision": "09dffc426847936313fd",
@@ -228,6 +228,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/academic_programs.59347f21.jpg"
   },
   {
+    "revision": "d58a9d0cc79ad03dc3663b1924b7d1b2",
+    "url": "/static/media/accenture.d58a9d0c.png"
+  },
+  {
     "revision": "3a1df6c1e0644b8b1a12219346c3f013",
     "url": "/static/media/appCurvyLines.3a1df6c1.png"
   },
@@ -346,6 +350,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "05e9f88e4c2ca7d4367ce9b75a3a2cd5",
     "url": "/static/media/neworleans_convention_center.05e9f88e.jpeg"
+  },
+  {
+    "revision": "76e05a279f8f44d5d29a154da46ac7de",
+    "url": "/static/media/nvidia.76e05a27.png"
   },
   {
     "revision": "ba87c66f5834bda10538d6750abf50d9",
