@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.772532b9.chunk.css",
-    "main.js": "/static/js/main.e1d4b365.chunk.js",
-    "main.js.map": "/static/js/main.e1d4b365.chunk.js.map",
+    "main.js": "/static/js/main.f4f0a458.chunk.js",
+    "main.js.map": "/static/js/main.f4f0a458.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.40866728.chunk.js": "/static/js/2.40866728.chunk.js",
-    "static/js/2.40866728.chunk.js.map": "/static/js/2.40866728.chunk.js.map",
+    "static/js/2.df6292d6.chunk.js": "/static/js/2.df6292d6.chunk.js",
+    "static/js/2.df6292d6.chunk.js.map": "/static/js/2.df6292d6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2240d468947339890b82aa9aaaaddfb7.js": "/precache-manifest.2240d468947339890b82aa9aaaaddfb7.js",
+    "precache-manifest.56711e5d6feec07cec68b95548c94ec3.js": "/precache-manifest.56711e5d6feec07cec68b95548c94ec3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.772532b9.chunk.css.map": "/static/css/main.772532b9.chunk.css.map",
-    "static/js/2.40866728.chunk.js.LICENSE.txt": "/static/js/2.40866728.chunk.js.LICENSE.txt",
+    "static/js/2.df6292d6.chunk.js.LICENSE.txt": "/static/js/2.df6292d6.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.30fade4a.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.7f0f7c9d.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -81,6 +81,7 @@
     "static/media/bai-logo.png": "/static/media/bai-logo.44f8f823.png",
     "static/media/cidade_do_mexico.jpg": "/static/media/cidade_do_mexico.ed75bc60.jpg",
     "static/media/convention_centre_sydney.jpeg": "/static/media/convention_centre_sydney.77db7a77.jpeg",
+    "static/media/deshaw.jpg": "/static/media/deshaw.a9e80f5e.jpg",
     "static/media/foutse.jpg": "/static/media/foutse.b809d90e.jpg",
     "static/media/hameed.jpg": "/static/media/hameed.4b236a23.jpg",
     "static/media/header-bai-2021.png": "/static/media/header-bai-2021.b523fb7c.png",
@@ -107,8 +108,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.40866728.chunk.js",
+    "static/js/2.df6292d6.chunk.js",
     "static/css/main.772532b9.chunk.css",
-    "static/js/main.e1d4b365.chunk.js"
+    "static/js/main.f4f0a458.chunk.js"
   ]
 }

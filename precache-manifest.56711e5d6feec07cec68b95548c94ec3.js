@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a903b7a4ab5780f265cb43057a4c48af",
+    "revision": "5fe1945550fa7c33df15d7fd60cc7327",
     "url": "/index.html"
   },
   {
-    "revision": "8c98d75ae0a8026e5cdb",
+    "revision": "eb804a2a4b2329501c47",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
-    "revision": "3cfff88ae44431078926",
-    "url": "/static/js/2.40866728.chunk.js"
+    "revision": "00b8772f2853b71377e1",
+    "url": "/static/js/2.df6292d6.chunk.js"
   },
   {
     "revision": "392bf43edde2f55864ca8226587ec901",
-    "url": "/static/js/2.40866728.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.df6292d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c98d75ae0a8026e5cdb",
-    "url": "/static/js/main.e1d4b365.chunk.js"
+    "revision": "eb804a2a4b2329501c47",
+    "url": "/static/js/main.f4f0a458.chunk.js"
   },
   {
     "revision": "09dffc426847936313fd",
@@ -298,6 +298,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "77db7a77da35a093eef2e1ab0f54ee18",
     "url": "/static/media/convention_centre_sydney.77db7a77.jpeg"
+  },
+  {
+    "revision": "a9e80f5edfea5e746a814f3981d45c25",
+    "url": "/static/media/deshaw.a9e80f5e.jpg"
   },
   {
     "revision": "b809d90eb5b04acb9c17b02556a840aa",
