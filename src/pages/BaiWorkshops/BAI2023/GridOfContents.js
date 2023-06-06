@@ -81,11 +81,13 @@ function GridOfContents(props) {
             title: 'Black in AI Travel Grant Application',
             width: '33.3%',
             // url: 'https://forms.gle/4CXkLZk89e1JvTZ66',
+            url: 'https://forms.gle/4CXkLZk89e1JvTZ66',
         },
         {
             title: 'Workshop Registration (Hybrid format)',
             width: '33.3%',
             // url: 'https://forms.gle/SHdt1Bpy5aBbwpBW9',
+            url: 'https://forms.gle/SHdt1Bpy5aBbwpBW9',
         },
         // {
         //     title: 'Accepted Papers',
