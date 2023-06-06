@@ -5,9 +5,9 @@ name: CI - React Application to gh-pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main-2 ]
   pull_request:
-    branches: [ main ]
+    branches: [ main-2 ]
 
 jobs:
   build:
