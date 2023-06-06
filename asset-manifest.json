@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.772532b9.chunk.css",
-    "main.js": "/static/js/main.def854b1.chunk.js",
-    "main.js.map": "/static/js/main.def854b1.chunk.js.map",
+    "main.js": "/static/js/main.f55817a2.chunk.js",
+    "main.js.map": "/static/js/main.f55817a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.fec707ce.chunk.js": "/static/js/2.fec707ce.chunk.js",
-    "static/js/2.fec707ce.chunk.js.map": "/static/js/2.fec707ce.chunk.js.map",
+    "static/js/2.92d9b29a.chunk.js": "/static/js/2.92d9b29a.chunk.js",
+    "static/js/2.92d9b29a.chunk.js.map": "/static/js/2.92d9b29a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.aee59ef3fab9b3594fde98033bf34069.js": "/precache-manifest.aee59ef3fab9b3594fde98033bf34069.js",
+    "precache-manifest.ca025b6489c70d196fbfbf7b7b0ce494.js": "/precache-manifest.ca025b6489c70d196fbfbf7b7b0ce494.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.772532b9.chunk.css.map": "/static/css/main.772532b9.chunk.css.map",
-    "static/js/2.fec707ce.chunk.js.LICENSE.txt": "/static/js/2.fec707ce.chunk.js.LICENSE.txt",
+    "static/js/2.92d9b29a.chunk.js.LICENSE.txt": "/static/js/2.92d9b29a.chunk.js.LICENSE.txt",
+    "static/media/2023_header_light.png": "/static/media/2023_header_light.1798fb0d.png",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.30fade4a.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.7f0f7c9d.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -23,6 +24,7 @@
     "static/media/CallForPapers2019.md": "/static/media/CallForPapers2019.6e9c7d40.md",
     "static/media/CallForPapers2021.md": "/static/media/CallForPapers2021.74293cdd.md",
     "static/media/CallForPapers2022.md": "/static/media/CallForPapers2022.2b4e47d2.md",
+    "static/media/CallForPapers2023.md": "/static/media/CallForPapers2023.6b0e91ce.md",
     "static/media/CallForStartups2021.md": "/static/media/CallForStartups2021.3a7dd99d.md",
     "static/media/CharlesIsbell.jpg": "/static/media/CharlesIsbell.de6e3266.jpg",
     "static/media/DevinGuillory.jpg": "/static/media/DevinGuillory.32066185.jpg",
@@ -60,6 +62,7 @@
     "static/media/Submissions2019.md": "/static/media/Submissions2019.b5bc43a7.md",
     "static/media/Submissions2021.md": "/static/media/Submissions2021.df7addef.md",
     "static/media/Submissions2022.md": "/static/media/Submissions2022.95f00cf7.md",
+    "static/media/Submissions2023.md": "/static/media/Submissions2023.d41d8cd9.md",
     "static/media/SummerResearchPrograms.md": "/static/media/SummerResearchPrograms.19bae1aa.md",
     "static/media/academic_programs.jpg": "/static/media/academic_programs.59347f21.jpg",
     "static/media/accenture.png": "/static/media/accenture.d58a9d0c.png",
@@ -107,8 +110,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.fec707ce.chunk.js",
+    "static/js/2.92d9b29a.chunk.js",
     "static/css/main.772532b9.chunk.css",
-    "static/js/main.def854b1.chunk.js"
+    "static/js/main.f55817a2.chunk.js"
   ]
 }
