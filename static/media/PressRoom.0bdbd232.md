@@ -1,4 +1,4 @@
-##### Last updated on Feb 04, 2022
+##### Last updated on Jun, 2023
 
 ### Black in AI Community Announcements
 - [Black in AI is looking for its first Executive Director!](http:blackinai.github.io/#/bai-open-position-2022)

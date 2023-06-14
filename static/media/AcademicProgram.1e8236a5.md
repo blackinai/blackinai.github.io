@@ -1,4 +1,4 @@
-##### Last updated on Sep 24, 2020
+##### Last updated on Jun, 2023
 
 
 **The Black in AI Academic Program** is committed to serving as a resource and supporting Black junior researchers as they apply to graduate programs, navigate graduate school, and enter the postgraduate job market. To that end, we conduct online information sessions, provide scholarships to cover costs related to applications, assign participants to peer and senior mentors, and share crowdsourced documents that demystify application processes.

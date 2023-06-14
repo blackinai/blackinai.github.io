@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef55c2a24afd676b99621905e080e5ee",
+    "revision": "be389d2b892cc6b55e2abbab1fc83854",
     "url": "/index.html"
   },
   {
-    "revision": "88898f3b6935804405d0",
+    "revision": "c70af35b4b0b37282389",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.92d9b29a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88898f3b6935804405d0",
-    "url": "/static/js/main.af8601a8.chunk.js"
+    "revision": "c70af35b4b0b37282389",
+    "url": "/static/js/main.a6408ec8.chunk.js"
   },
   {
     "revision": "09dffc426847936313fd",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/2023_header_light.1798fb0d.png"
   },
   {
-    "revision": "30fade4a12de21d36b7ab5471bbadfbe",
-    "url": "/static/media/AcademicProgram.30fade4a.md"
+    "revision": "1e8236a5237be8005bf646932a6341ba",
+    "url": "/static/media/AcademicProgram.1e8236a5.md"
   },
   {
-    "revision": "7f0f7c9d3ff363179d6339618df11929",
-    "url": "/static/media/Advocacy.7f0f7c9d.md"
+    "revision": "d714441a3e460eadcf4bebad246b5c4e",
+    "url": "/static/media/Advocacy.d714441a.md"
   },
   {
     "revision": "4d8bb838d9527a8c0d28d62b179cc497",
@@ -88,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/DevinGuillory.32066185.jpg"
   },
   {
-    "revision": "2683ec8c9aac7ad4f8a17f58517a0035",
-    "url": "/static/media/EntrepreneurshipProgram.2683ec8c.md"
+    "revision": "9d899d4b2f963fbdec9bd8905a5d3cb2",
+    "url": "/static/media/EntrepreneurshipProgram.9d899d4b.md"
   },
   {
     "revision": "7143c736a3bdca82744c68094b3cbde7",
     "url": "/static/media/EzinneNwanko.7143c736.jpg"
   },
   {
-    "revision": "52ba822d198b384e97d655a22aaf3257",
-    "url": "/static/media/FinancialSupport.52ba822d.md"
+    "revision": "6f5bb80b212758716cd83c23b31dbe6b",
+    "url": "/static/media/FinancialSupport.6f5bb80b.md"
   },
   {
     "revision": "bb8983314bd4a5abf15684afff02e52c",
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Paul.1dc99c16.jpeg"
   },
   {
-    "revision": "52aa656f0a519fd1aff82c2241a91d00",
-    "url": "/static/media/PressRoom.52aa656f.md"
+    "revision": "0bdbd2323eb74604cc200f4ce88dc0a0",
+    "url": "/static/media/PressRoom.0bdbd232.md"
   },
   {
     "revision": "2a5b5e6e2e8935fab1d0b453a5f2de68",
@@ -228,8 +228,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Submissions2023.d41d8cd9.md"
   },
   {
-    "revision": "19bae1aa75fbfdc41d6fc8704e1f3094",
-    "url": "/static/media/SummerResearchPrograms.19bae1aa.md"
+    "revision": "c3398c296893bcfddfbb25975085612b",
+    "url": "/static/media/SummerResearchPrograms.c3398c29.md"
   },
   {
     "revision": "59347f21a7fefb1a0c353eabd2537b68",

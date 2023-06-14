@@ -1,4 +1,4 @@
-##### Last updated on June 25, 2022
+##### Last updated on Jun, 2023
 
 As of 2021, Black founders in the US [receive](https://about.crunchbase.com/2020-diversity-spotlight-report/) around 2% of venture capital and Black investors [represent 3%](https://www.blckvc.com/) of the professionals in the Venture Capital industry. Through our entrepreneurship program, we aim to contribute to closing this gap by accelerating the success of Black in AI founders working on groundbreaking ventures. 
 

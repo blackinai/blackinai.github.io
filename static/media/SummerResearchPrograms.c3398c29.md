@@ -1,4 +1,4 @@
-##### Last updated on March 31, 2021
+##### Last updated on Jun, 2023
 
 *Starting summer of 2021, Black in AI is piloting 2 summer programs, one tailored towards undergraduates, and another one without restrictions for participation. Black in AI is excited to partner with the [Distributed Research Experiences for Undergraduates (DREU) program](https://cra.org/cra-wp/dreu/) and will fund a limited number of summer internships in the summer of 2021. In addition, Black in AI is also partnering with Stanford University to pilot the BlackAIR summer research program, to provide research support, mentorship, and exposure to program participants: [blackairgrant.stanford.edu](https://blackairgrant.stanford.edu). Black women at various stages of AI research experience are encouraged to apply. Program participants will be matched with a research mentor whom they will regularly meet (remotely) for research guidance over the course of the grant, and will get the opportunity to hear speakers from various Computer Science research fields. The 2021 edition of the program will be held remotely.*
 

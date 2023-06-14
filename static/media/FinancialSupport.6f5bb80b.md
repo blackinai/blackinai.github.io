@@ -1,4 +1,4 @@
-##### Last updated on March 18, 2021
+##### Last updated on Jun, 2023
 
 *In addition to providing scholarships to cover costs associated with navigating academic programs, Black in AI awards need-based travel grants to attend our annual events including our workshop at the NeruIPS conference, and additional events in other conferences such as [AAAI](https://www.aaai.org/), [CVPR](http://cvpr2021.thecvf.com/), [ACL](https://acl2020.org/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), [COLING](https://coling2020.org/) and [FAccT](https://facctconference.org/2021/). Our grants cover flights, accommodation, daily per diems, visa fees, data grants, and registration for the conferences. Since the first Black in AI workshop in 2017, **400+** works from **40+** countries have been presented with over **$1M** given out in travel grants supporting **400+** people. Many members cannot afford to first pay out of pocket and then receive reimbursements. Thus we also make travel arrangements for them including booking airfare and accommodation.*
 

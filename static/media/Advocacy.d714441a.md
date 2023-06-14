@@ -1,4 +1,4 @@
-##### Last updated on March 18, 2021
+##### Last updated on Jun, 2023
 
 **Black in AI’s advocacy has focused on removing barriers faced by Black people around the world in the field of AI. Our advocacy has helped remove the GRE as an admissions requirement by some graduate schools in the US, helped shed light on visa issues that Africans and members of the African diaspora face while attempting to attend major international AI conferences, the lack of presence by international companies on the African continent, and the choice of conference locations that exclude many members of our community.**
 
