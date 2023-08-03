@@ -35,13 +35,13 @@ Registration starts on Saturday, September 24th, 2022. We strongly encourage wor
 
 ## Important Dates
 - **Call for paper submission opens on CMT**  - July 1st 2023
-- **Call for paper submission deadline EXTENDED** - July 30th, 2023, 11:59 pm UTC 
+- **Call for paper submission deadline EXTENDED** - August 18th, 2023, 11:59 pm UTC 
 - **Notification of Call for paper acceptance**  - September 12th, 2023  
 
 Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url)
 
 
-**Submit your work to CMT at**: https://cmt3.research.microsoft.com/BAI2022  
+**Submit your work using CMT at**: https://cmt3.research.microsoft.com/BAI2023
 
 Submission instructions and important deadlines can be also found [here](https://docs.google.com/document/d/1uzJBKaHRDcPh04RfU-pM1TP8D3Tc-8ZUDh8cYyPaLgc/edit#)
 
