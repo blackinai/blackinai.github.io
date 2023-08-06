@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.772532b9.chunk.css",
-    "main.js": "/static/js/main.9741691e.chunk.js",
-    "main.js.map": "/static/js/main.9741691e.chunk.js.map",
+    "main.js": "/static/js/main.e5adcf2f.chunk.js",
+    "main.js.map": "/static/js/main.e5adcf2f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.af684ff4.chunk.js": "/static/js/2.af684ff4.chunk.js",
-    "static/js/2.af684ff4.chunk.js.map": "/static/js/2.af684ff4.chunk.js.map",
+    "static/js/2.b41ffd16.chunk.js": "/static/js/2.b41ffd16.chunk.js",
+    "static/js/2.b41ffd16.chunk.js.map": "/static/js/2.b41ffd16.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dc90a6357745acd20f35f69571d939ac.js": "/precache-manifest.dc90a6357745acd20f35f69571d939ac.js",
+    "precache-manifest.a80a04af6beec8b0b5df3c10b472df1f.js": "/precache-manifest.a80a04af6beec8b0b5df3c10b472df1f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.772532b9.chunk.css.map": "/static/css/main.772532b9.chunk.css.map",
-    "static/js/2.af684ff4.chunk.js.LICENSE.txt": "/static/js/2.af684ff4.chunk.js.LICENSE.txt",
+    "static/js/2.b41ffd16.chunk.js.LICENSE.txt": "/static/js/2.b41ffd16.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.1e8236a5.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.d714441a.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -23,13 +23,12 @@
     "static/media/CallForPapers2019.md": "/static/media/CallForPapers2019.6e9c7d40.md",
     "static/media/CallForPapers2021.md": "/static/media/CallForPapers2021.74293cdd.md",
     "static/media/CallForPapers2022.md": "/static/media/CallForPapers2022.2b4e47d2.md",
-    "static/media/CallForPapers2023.md": "/static/media/CallForPapers2023.04df8421.md",
+    "static/media/CallForPapers2023.md": "/static/media/CallForPapers2023.72e5f50c.md",
     "static/media/CallForStartups2021.md": "/static/media/CallForStartups2021.3a7dd99d.md",
     "static/media/CharlesIsbell.jpg": "/static/media/CharlesIsbell.de6e3266.jpg",
     "static/media/DevinGuillory.jpg": "/static/media/DevinGuillory.32066185.jpg",
     "static/media/EntrepreneurshipProgram.md": "/static/media/EntrepreneurshipProgram.9d899d4b.md",
     "static/media/EzinneNwanko.jpg": "/static/media/EzinneNwanko.7143c736.jpg",
-    "static/media/FinancialSupport.md": "/static/media/FinancialSupport.6f5bb80b.md",
     "static/media/Grants2017.md": "/static/media/Grants2017.bb898331.md",
     "static/media/Grants2018.md": "/static/media/Grants2018.09c6195b.md",
     "static/media/Grants2019.md": "/static/media/Grants2019.e7417584.md",
@@ -76,7 +75,6 @@
     "static/media/bai-img-5.jpg": "/static/media/bai-img-5.3196e416.jpg",
     "static/media/bai-img-6.jpg": "/static/media/bai-img-6.c190e54f.jpg",
     "static/media/bai-img-7.png": "/static/media/bai-img-7.9eea18fc.png",
-    "static/media/bai-img-8.png": "/static/media/bai-img-8.900da365.png",
     "static/media/bai-img-9.png": "/static/media/bai-img-9.3b7962a4.png",
     "static/media/bai-logo.png": "/static/media/bai-logo.44f8f823.png",
     "static/media/cidade_do_mexico.jpg": "/static/media/cidade_do_mexico.ed75bc60.jpg",
@@ -109,8 +107,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.af684ff4.chunk.js",
+    "static/js/2.b41ffd16.chunk.js",
     "static/css/main.772532b9.chunk.css",
-    "static/js/main.9741691e.chunk.js"
+    "static/js/main.e5adcf2f.chunk.js"
   ]
 }
