@@ -1,4 +1,4 @@
-##### Last updated on Jun, 2023
+##### Last updated on Sep, 2023
 
 
 **The Black in AI Academic Program** is committed to serving as a resource and supporting Black junior researchers as they apply to graduate programs, navigate graduate school, and enter the postgraduate job market. To that end, we conduct online information sessions, provide scholarships to cover costs related to applications, assign participants to peer and senior mentors, and share crowdsourced documents that demystify application processes.
@@ -18,29 +18,16 @@ On this page we will answer frequently asked questions and provide opportunities
 
 If you are interested in supporting us by volunteering your time as a mentor, donating to the program, or supporting us with our advocacy, please reach out to the organizers
 
+**APPLY HERE: [Academic Program Forms](https://forms.gle/TcnntQBihMivhajr7)**
+
 ### Contact:
-` academic@blackinai.org `
+[academic@blackinai.org](malito:academic@blackinai.org)
 
-### Organizers:
-- Rediet Abebe, University of California at Berkeley
-- Moses Namara, Clemson University
-- Daniel Nkemelu, Georgia Institute of Technology
-- Ezinne Nwankwo, Duke University
-### Faculty Advisors:
-- Rediet Abebe, University of California at Berkeley
-- Sanmi Koyejo, Ph.D., University of Illinois, Urbana Champaign
-- Dina Machuve, Ph.D., Nelson Mandela African Institute of Science and Technology
-- Brandeis Marshall, Ph.D., Spelman College
-
-### Supported By: Black in AI
+**Supported By: Black in AI**
 
 -----
 
 ### FAQs:
-
-- **How can I take part in this program?**
-
-*If you self-identify as Black and are applying to graduate or postgraduate positions or are currently in graduate school, please sign up to join the Black in AI google group here and follow instructions sent out over our email list.*
 
 - **How can I support this program as an academic?**
 

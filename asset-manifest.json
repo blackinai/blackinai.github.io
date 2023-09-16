@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.772532b9.chunk.css",
-    "main.js": "/static/js/main.2e3ad17a.chunk.js",
-    "main.js.map": "/static/js/main.2e3ad17a.chunk.js.map",
+    "main.js": "/static/js/main.8ab394d1.chunk.js",
+    "main.js.map": "/static/js/main.8ab394d1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.78007683.chunk.js": "/static/js/2.78007683.chunk.js",
-    "static/js/2.78007683.chunk.js.map": "/static/js/2.78007683.chunk.js.map",
+    "static/js/2.4b95705a.chunk.js": "/static/js/2.4b95705a.chunk.js",
+    "static/js/2.4b95705a.chunk.js.map": "/static/js/2.4b95705a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.44b3fba38198ce642e47173194b75c8f.js": "/precache-manifest.44b3fba38198ce642e47173194b75c8f.js",
+    "precache-manifest.e10a1fb18b2304277a5f6bbe8d378fcf.js": "/precache-manifest.e10a1fb18b2304277a5f6bbe8d378fcf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.772532b9.chunk.css.map": "/static/css/main.772532b9.chunk.css.map",
-    "static/js/2.78007683.chunk.js.LICENSE.txt": "/static/js/2.78007683.chunk.js.LICENSE.txt",
-    "static/media/AcademicProgram.md": "/static/media/AcademicProgram.1e8236a5.md",
+    "static/js/2.4b95705a.chunk.js.LICENSE.txt": "/static/js/2.4b95705a.chunk.js.LICENSE.txt",
+    "static/media/AcademicProgram.md": "/static/media/AcademicProgram.e18b31f8.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.d714441a.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
     "static/media/BAI0penPosition.md": "/static/media/BAI0penPosition.4a367fbf.md",
@@ -83,7 +83,6 @@
     "static/media/header-bai-2021.png": "/static/media/header-bai-2021.b523fb7c.png",
     "static/media/header-bai-2022.png": "/static/media/header-bai-2022.00ea3a93.png",
     "static/media/header-bai-2023.png": "/static/media/header-bai-2023.c091f3cc.png",
-    "static/media/icml_logo.png": "/static/media/icml_logo.60746b7d.png",
     "static/media/image2.jpg": "/static/media/image2.b92980bf.jpg",
     "static/media/irene.png": "/static/media/irene.36635e62.png",
     "static/media/meta.png": "/static/media/meta.c42f984d.png",
@@ -105,8 +104,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.78007683.chunk.js",
+    "static/js/2.4b95705a.chunk.js",
     "static/css/main.772532b9.chunk.css",
-    "static/js/main.2e3ad17a.chunk.js"
+    "static/js/main.8ab394d1.chunk.js"
   ]
 }
