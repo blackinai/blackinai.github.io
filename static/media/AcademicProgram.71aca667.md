@@ -20,14 +20,14 @@ If you are interested in supporting us by volunteering your time as a mentor, do
 
 **APPLY HERE: [Academic Program Forms](https://forms.gle/TcnntQBihMivhajr7)**
 
-### Contact:
-[academic@blackinai.org](malito:academic@blackinai.org)
-
-**Supported By: Black in AI**
 
 -----
 
 ### FAQs:
+
+- **How can I apply?**
+
+[APPLY HERE](https://forms.gle/TcnntQBihMivhajr7)
 
 - **How can I support this program as an academic?**
 
