@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43e8f0eda84895c82495a43f46420fa7",
+    "revision": "9867a6898353155cf68f840b2403ad1d",
     "url": "/index.html"
   },
   {
-    "revision": "36bf06879378568c14c6",
+    "revision": "8cf8b1eba0aa5c608e4f",
     "url": "/static/css/main.772532b9.chunk.css"
   },
   {
-    "revision": "7e253f436b69ef5f4e7c",
-    "url": "/static/js/2.02c7319b.chunk.js"
+    "revision": "b3652cfceb50e693ed09",
+    "url": "/static/js/2.a88460f7.chunk.js"
   },
   {
     "revision": "f5120b3bcf6b0693f6268bfb0887bcff",
-    "url": "/static/js/2.02c7319b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a88460f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36bf06879378568c14c6",
-    "url": "/static/js/main.3fa3b35a.chunk.js"
+    "revision": "8cf8b1eba0aa5c608e4f",
+    "url": "/static/js/main.1c722dfe.chunk.js"
   },
   {
     "revision": "09dffc426847936313fd",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4a367fbfeb2b94e23659518341536ddb",
     "url": "/static/media/BAI0penPosition.4a367fbf.md"
-  },
-  {
-    "revision": "8f32c531dd48ab6ab4bbf5e64245dc83",
-    "url": "/static/media/Black_in_AI_2022_Sponsorship.8f32c531.pdf"
   },
   {
     "revision": "b1b79cace97205098fba97e47ba6758a",
@@ -284,8 +280,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/convention_centre_sydney.77db7a77.jpeg"
   },
   {
+    "revision": "d52cbd521926bfbec1fbe523bd9f34bc",
+    "url": "/static/media/deepmind.d52cbd52.png"
+  },
+  {
     "revision": "a9e80f5edfea5e746a814f3981d45c25",
     "url": "/static/media/deshaw.a9e80f5e.jpg"
+  },
+  {
+    "revision": "216ec9f0a07595b65460c5865b53eb16",
+    "url": "/static/media/duolingo.216ec9f0.png"
   },
   {
     "revision": "b809d90eb5b04acb9c17b02556a840aa",
@@ -366,6 +370,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "908e06c1bb1c222c65273a5de7377b3a",
     "url": "/static/media/vancouver_neurips_2020.908e06c1.jpg"
+  },
+  {
+    "revision": "2dc1602c9e29192f82142c662dfe3872",
+    "url": "/static/media/vectorInstitute.2dc1602c.png"
   },
   {
     "revision": "d45e72f5c0fad83db92ab2b29aae14b4",

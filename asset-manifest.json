@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.772532b9.chunk.css",
-    "main.js": "/static/js/main.3fa3b35a.chunk.js",
-    "main.js.map": "/static/js/main.3fa3b35a.chunk.js.map",
+    "main.js": "/static/js/main.1c722dfe.chunk.js",
+    "main.js.map": "/static/js/main.1c722dfe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.02c7319b.chunk.js": "/static/js/2.02c7319b.chunk.js",
-    "static/js/2.02c7319b.chunk.js.map": "/static/js/2.02c7319b.chunk.js.map",
+    "static/js/2.a88460f7.chunk.js": "/static/js/2.a88460f7.chunk.js",
+    "static/js/2.a88460f7.chunk.js.map": "/static/js/2.a88460f7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.536c99ebc99ff74f0b565d95bc577e10.js": "/precache-manifest.536c99ebc99ff74f0b565d95bc577e10.js",
+    "precache-manifest.9c2e47c237eba048c9fbed2f80a726d1.js": "/precache-manifest.9c2e47c237eba048c9fbed2f80a726d1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.772532b9.chunk.css.map": "/static/css/main.772532b9.chunk.css.map",
-    "static/js/2.02c7319b.chunk.js.LICENSE.txt": "/static/js/2.02c7319b.chunk.js.LICENSE.txt",
+    "static/js/2.a88460f7.chunk.js.LICENSE.txt": "/static/js/2.a88460f7.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.71aca667.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.d714441a.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
     "static/media/BAI0penPosition.md": "/static/media/BAI0penPosition.4a367fbf.md",
-    "static/media/Black_in_AI_2022_Sponsorship.pdf": "/static/media/Black_in_AI_2022_Sponsorship.8f32c531.pdf",
     "static/media/BrandeisMarshall.jpg": "/static/media/BrandeisMarshall.b1b79cac.jpg",
     "static/media/CallForPapers2017.md": "/static/media/CallForPapers2017.f9af3292.md",
     "static/media/CallForPapers2018.md": "/static/media/CallForPapers2018.9b28a24a.md",
@@ -77,7 +76,9 @@
     "static/media/bai-logo.png": "/static/media/bai-logo.44f8f823.png",
     "static/media/cidade_do_mexico.jpg": "/static/media/cidade_do_mexico.ed75bc60.jpg",
     "static/media/convention_centre_sydney.jpeg": "/static/media/convention_centre_sydney.77db7a77.jpeg",
+    "static/media/deepmind.png": "/static/media/deepmind.d52cbd52.png",
     "static/media/deshaw.jpg": "/static/media/deshaw.a9e80f5e.jpg",
+    "static/media/duolingo.png": "/static/media/duolingo.216ec9f0.png",
     "static/media/foutse.jpg": "/static/media/foutse.b809d90e.jpg",
     "static/media/hameed.jpg": "/static/media/hameed.4b236a23.jpg",
     "static/media/header-bai-2021.png": "/static/media/header-bai-2021.b523fb7c.png",
@@ -98,14 +99,15 @@
     "static/media/upstart.png": "/static/media/upstart.01118da0.png",
     "static/media/vancouver_convention_center.jpg": "/static/media/vancouver_convention_center.01aa3bae.jpg",
     "static/media/vancouver_neurips_2020.jpg": "/static/media/vancouver_neurips_2020.908e06c1.jpg",
+    "static/media/vectorInstitute.png": "/static/media/vectorInstitute.2dc1602c.png",
     "static/media/victor.jpg": "/static/media/victor.d45e72f5.jpg",
     "static/media/vienna.jpeg": "/static/media/vienna.b1409dc9.jpeg",
     "static/media/young-black-women-talking.jpg": "/static/media/young-black-women-talking.8caf796d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.02c7319b.chunk.js",
+    "static/js/2.a88460f7.chunk.js",
     "static/css/main.772532b9.chunk.css",
-    "static/js/main.3fa3b35a.chunk.js"
+    "static/js/main.1c722dfe.chunk.js"
   ]
 }
