@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d0c5ca4b.chunk.css",
-    "main.js": "/static/js/main.f4e9243f.chunk.js",
-    "main.js.map": "/static/js/main.f4e9243f.chunk.js.map",
+    "main.js": "/static/js/main.57376a96.chunk.js",
+    "main.js.map": "/static/js/main.57376a96.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.8b1bbc92.chunk.js": "/static/js/2.8b1bbc92.chunk.js",
-    "static/js/2.8b1bbc92.chunk.js.map": "/static/js/2.8b1bbc92.chunk.js.map",
+    "static/js/2.04f96d39.chunk.js": "/static/js/2.04f96d39.chunk.js",
+    "static/js/2.04f96d39.chunk.js.map": "/static/js/2.04f96d39.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5427cd031807864cde7bed228adf7d69.js": "/precache-manifest.5427cd031807864cde7bed228adf7d69.js",
+    "precache-manifest.63b5f6d36abb31abc966477baedd85d6.js": "/precache-manifest.63b5f6d36abb31abc966477baedd85d6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d0c5ca4b.chunk.css.map": "/static/css/main.d0c5ca4b.chunk.css.map",
-    "static/js/2.8b1bbc92.chunk.js.LICENSE.txt": "/static/js/2.8b1bbc92.chunk.js.LICENSE.txt",
+    "static/js/2.04f96d39.chunk.js.LICENSE.txt": "/static/js/2.04f96d39.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.71aca667.md",
     "static/media/AcceptedPapers2023.md": "/static/media/AcceptedPapers2023.edf89d13.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.d714441a.md",
@@ -77,8 +77,6 @@
     "static/media/bai-logo.png": "/static/media/bai-logo.44f8f823.png",
     "static/media/cidade_do_mexico.jpg": "/static/media/cidade_do_mexico.ed75bc60.jpg",
     "static/media/convention_centre_sydney.jpeg": "/static/media/convention_centre_sydney.77db7a77.jpeg",
-    "static/media/deepmind2.png": "/static/media/deepmind2.18f7cc67.png",
-    "static/media/deshaw.jpg": "/static/media/deshaw.a9e80f5e.jpg",
     "static/media/duolingo.png": "/static/media/duolingo.216ec9f0.png",
     "static/media/foutse.jpg": "/static/media/foutse.b809d90e.jpg",
     "static/media/hameed.jpg": "/static/media/hameed.4b236a23.jpg",
@@ -107,8 +105,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.8b1bbc92.chunk.js",
+    "static/js/2.04f96d39.chunk.js",
     "static/css/main.d0c5ca4b.chunk.css",
-    "static/js/main.f4e9243f.chunk.js"
+    "static/js/main.57376a96.chunk.js"
   ]
 }
