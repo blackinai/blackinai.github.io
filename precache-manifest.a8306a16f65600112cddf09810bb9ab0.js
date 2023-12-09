@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69b744ad33eeabf599ea6f47163e6c83",
+    "revision": "52fbddfcb44947c63564be8797899343",
     "url": "/index.html"
   },
   {
-    "revision": "b82d8cb15d48b556a480",
+    "revision": "7773c735387f64914c6b",
     "url": "/static/css/main.d0c5ca4b.chunk.css"
   },
   {
-    "revision": "87903064fc727e4bc8b5",
-    "url": "/static/js/2.04f96d39.chunk.js"
+    "revision": "d2717dfcf83fde63d626",
+    "url": "/static/js/2.e485d3de.chunk.js"
   },
   {
     "revision": "f5120b3bcf6b0693f6268bfb0887bcff",
-    "url": "/static/js/2.04f96d39.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e485d3de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b82d8cb15d48b556a480",
-    "url": "/static/js/main.57376a96.chunk.js"
+    "revision": "7773c735387f64914c6b",
+    "url": "/static/js/main.9a5526a0.chunk.js"
   },
   {
     "revision": "09dffc426847936313fd",
@@ -220,6 +220,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/accenture.d58a9d0c.png"
   },
   {
+    "revision": "847a9fa7c3d2d348b6f739c1d2057551",
+    "url": "/static/media/alfredSloan.847a9fa7.png"
+  },
+  {
     "revision": "3a1df6c1e0644b8b1a12219346c3f013",
     "url": "/static/media/appCurvyLines.3a1df6c1.png"
   },
@@ -288,8 +292,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/duolingo.216ec9f0.png"
   },
   {
+    "revision": "d5b774e55342023547bcf3c82562a6cc",
+    "url": "/static/media/fordfoundation.d5b774e5.jpeg"
+  },
+  {
     "revision": "b809d90eb5b04acb9c17b02556a840aa",
     "url": "/static/media/foutse.b809d90e.jpg"
+  },
+  {
+    "revision": "6e233d3bdae431cfb8d2623fdd3b0fc7",
+    "url": "/static/media/gsk.6e233d3b.png"
   },
   {
     "revision": "4b236a237bf75f1c72045cc2b8c9bd7f",
@@ -314,6 +326,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "36635e624d8581fff8393dfb7b997e84",
     "url": "/static/media/irene.36635e62.png"
+  },
+  {
+    "revision": "d7160b32496828fdae3b9696276bd694",
+    "url": "/static/media/macarthur.d7160b32.png"
+  },
+  {
+    "revision": "665b2f7f9526248da4842ec16ca59543",
+    "url": "/static/media/mathworks.665b2f7f.png"
   },
   {
     "revision": "c42f984d2a43fbcb4157a9246b40e86b",
@@ -348,8 +368,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/oracle.ba87c66f.png"
   },
   {
+    "revision": "2d0e37bd2ce79e23c6e84e793c751d61",
+    "url": "/static/media/pmjf.2d0e37bd.png"
+  },
+  {
     "revision": "1404bde904315962501808ebba96458c",
     "url": "/static/media/renaissance_long_beach_hotel.1404bde9.jpg"
+  },
+  {
+    "revision": "697e48f5cd838f8f71d73674f16a03ab",
+    "url": "/static/media/rockefeller.697e48f5.png"
   },
   {
     "revision": "3465b9dd9d3d67d4412e659aa3e46d23",
