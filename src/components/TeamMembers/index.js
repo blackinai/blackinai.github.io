@@ -111,6 +111,13 @@ const blackinAIBoard = [
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
     {
+        image: require('./../../assets/img/team/AfuaBruce.jpeg'),
+        name: 'Afua Bruce', 
+        title: 'Director',
+        link: 'https://www.linkedin.com/in/afua-bruce/',
+        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
         image: require('./../../assets/img/team/SanmiKoyejo.png'),
         name: 'Sanmi Koyejo', 
         title: 'President', 
@@ -124,12 +131,46 @@ const blackinAIBoard = [
         link: 'https://www.linkedin.com/in/ezinne-nwankwo-119586101/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
+    {
+        image: require('./../../assets/img/team/GelynWatkins.jpeg'),
+        name: 'Gelyn Watkins', 
+        title: 'CEO',
+        // link: 'https://www.linkedin.com/in/ezinne-nwankwo-119586101/',
+        // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
 ];
-
 const communityTeam = [
     {
-        image: require('./../../assets/img/team/IsaacDonis.jpg'),
+        image: require('./../../assets/img/team/TemiladeAdekoya.jpg'),
+        name: 'Temilade Adekoya', 
+        title: '',
+        // link: 'https://www.linkedin.com/in/isaacdonis/',
+        // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/JanaeBrooks.jpeg'),
+        name: 'Janae Brooks', 
+        title: '',
+        // link: 'https://www.linkedin.com/in/isaacdonis/',
+        // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/SaharDar.jpg'),
+        name: 'Sahar Dar', 
+        title: '',
+        // link: 'https://www.linkedin.com/in/isaacdonis/',
+        // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/IsaacDonis.png'),
         name: 'Isaac Donis', 
+        title: '',
+        link: 'https://www.linkedin.com/in/isaacdonis/',
+        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/KellieGarcie.jpeg'),
+        name: 'Kellie Garcie', 
         title: '',
         link: 'https://www.linkedin.com/in/isaacdonis/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
@@ -140,6 +181,13 @@ const communityTeam = [
         title: '',
         link: 'https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/MarquitaRiggins.png'),
+        name: 'Marquita Riggins', 
+        title: '',
+        link: ''
+        // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
     {
         image: require('./../../assets/img/team/mirian.jpg'),
@@ -155,6 +203,7 @@ const communityTeam = [
         link: 'https://www.linkedin.com/in/nascimentovictor/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
+    
 ];
 
 function TeamMembers(props) {
