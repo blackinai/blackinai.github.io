@@ -141,6 +141,20 @@ const blackinAIBoard = [
 ];
 const communityTeam = [
     {
+        image: require('./../../assets/img/team/KellieGarcie.jpeg'),
+        name: 'Kellie Garcia', 
+        title: '',
+        // link: 'https://www.linkedin.com/in/isaacdonis/',
+        // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
+        image: require('./../../assets/img/team/MarquitaRiggins.png'),
+        name: 'Marquita Riggins', 
+        title: '',
+        link: 'https://www.linkedin.com/in/notjustchess/',
+        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    },
+    {
         image: require('./../../assets/img/team/TemiladeAdekoya.jpg'),
         name: 'Temilade Adekoya', 
         title: '',
@@ -169,25 +183,11 @@ const communityTeam = [
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
     {
-        image: require('./../../assets/img/team/KellieGarcie.jpeg'),
-        name: 'Kellie Garcie', 
-        title: '',
-        link: 'https://www.linkedin.com/in/isaacdonis/',
-        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
-    {
         image: require('./../../assets/img/team/HassanKane.jpg'),
         name: 'Hassan Kane',
         title: '',
         link: 'https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
-    {
-        image: require('./../../assets/img/team/MarquitaRiggins.png'),
-        name: 'Marquita Riggins', 
-        title: '',
-        link: ''
-        // icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
     {
         image: require('./../../assets/img/team/mirian.jpg'),
@@ -224,7 +224,7 @@ function TeamMembers(props) {
                             Black in AI Board
                         </Typography>
                     </Grid> 
-                    <Grid container justify="center">
+                    <Grid container justifyContent="center">
                         {blackinAIBoard.map((tile) => (
                             <Grid key={tile} item xs md={2} align="center">
                                 <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
@@ -235,34 +235,32 @@ function TeamMembers(props) {
                                 </Typography>
                             </Grid>
                         ))}
-                    </Grid>
-
                     <Divider variant="middle" className={classes.divider}/>
-                    
+                    </Grid>
                     <Grid item xs={12}>
                         <Typography variant="h5" marked="center" align="center" className={classes.title}>
                             Advisory Board
                         </Typography>
                     </Grid> 
-                    {advisoryBoard.map((tile) => (
-                        <Grid item xs align="center">
-                            <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
-                            <Typography className={classes.cardtitle} variant="h6" gutterBottom>
-                                {tile.name} <Link target="_blank" rel="noopener" className={classes.icon} href={tile.link}>{tile.icon}</Link>
-                            </Typography>
-                        </Grid>
-                    ))}
-
-                    <Divider variant="middle" className={classes.divider}/>
-
+                    <Grid container justifyContent="center">
+                        {advisoryBoard.map((tile) => (
+                            <Grid item xs align="center">
+                                <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
+                                <Typography className={classes.cardtitle} variant="h6" gutterBottom>
+                                    {tile.name} <Link target="_blank" rel="noopener" className={classes.icon} href={tile.link}>{tile.icon}</Link>
+                                </Typography>
+                            </Grid>
+                        ))}
+                        <Divider variant="middle" className={classes.divider}/>
+                    </Grid>
                     <Grid item xs={12}>
                         <Typography variant="h5" marked="center" align="center" className={classes.title}>
-                            Community Team
+                            Core Team
                         </Typography>
                     </Grid> 
-                    <Grid container justify="center">
+                    <Grid container xs justifyContent="center">
                         {communityTeam.map((tile) => (
-                        <Grid key={tile} item xs md={2} align="center">
+                        <Grid key={tile} item md={4} align="center">
                             <Avatar alt={tile.name} src={tile.image} className={classes.avatarSize} />
                             <Typography className={classes.cardtitle} variant="h6" gutterBottom>
                                 {tile.name} <Link target="_blank" rel="noopener" className={classes.icon} href={tile.link}>{tile.icon}</Link>
