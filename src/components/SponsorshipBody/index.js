@@ -80,7 +80,7 @@ function SponsorshipBody(props) {
                             <Typography variant="h6" color="secondary" align="center" className={classes.title}>
                                 To learn more, please contact us at sponsorship@blackinai.org. 
                             </Typography>
-                            <ColorButton className={classes.chip} variant="contained" href="https://github.com/blackinai/blackinai.github.io/raw/985c33fa1e59584ac309e72fb16b2f38dadd6ed6/src/assets/doc/BlackinAI_2023_Sponsorship.pdf">
+                            <ColorButton className={classes.chip} variant="contained" href="https://github.com/blackinai/blackinai.github.io/blob/464cfbe61da9637f8fbd071479f8528ea40e0a17/src/assets/doc/2024_BlackinAI_Corporate_Sponsorship_Brochure.pdf">
                                 Download our sponsorship offerings
                             </ColorButton>
                         </Grid>
@@ -99,3 +99,4 @@ SponsorshipBody.propTypes = {
 };
 
 export default withStyles(styles)(SponsorshipBody);
+
