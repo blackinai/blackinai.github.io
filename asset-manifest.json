@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d0c5ca4b.chunk.css",
-    "main.js": "/static/js/main.2f64282e.chunk.js",
-    "main.js.map": "/static/js/main.2f64282e.chunk.js.map",
+    "main.js": "/static/js/main.beda1f79.chunk.js",
+    "main.js.map": "/static/js/main.beda1f79.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.2191d997.chunk.js": "/static/js/2.2191d997.chunk.js",
-    "static/js/2.2191d997.chunk.js.map": "/static/js/2.2191d997.chunk.js.map",
+    "static/js/2.dc293893.chunk.js": "/static/js/2.dc293893.chunk.js",
+    "static/js/2.dc293893.chunk.js.map": "/static/js/2.dc293893.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e2ffa369f620d0e4b36f4933e931efc1.js": "/precache-manifest.e2ffa369f620d0e4b36f4933e931efc1.js",
+    "precache-manifest.866860f23f2bcbf2a982a97bc9edfbb8.js": "/precache-manifest.866860f23f2bcbf2a982a97bc9edfbb8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d0c5ca4b.chunk.css.map": "/static/css/main.d0c5ca4b.chunk.css.map",
-    "static/js/2.2191d997.chunk.js.LICENSE.txt": "/static/js/2.2191d997.chunk.js.LICENSE.txt",
+    "static/js/2.dc293893.chunk.js.LICENSE.txt": "/static/js/2.dc293893.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.71aca667.md",
     "static/media/AcceptedPapers2023.md": "/static/media/AcceptedPapers2023.edf89d13.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.d714441a.md",
@@ -119,8 +119,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.2191d997.chunk.js",
+    "static/js/2.dc293893.chunk.js",
     "static/css/main.d0c5ca4b.chunk.css",
-    "static/js/main.2f64282e.chunk.js"
+    "static/js/main.beda1f79.chunk.js"
   ]
 }
