@@ -34,9 +34,10 @@ We strongly encourage workshop attendees to register for the workshops as early 
 
 
 ## Important Dates
-- **Call for paper submission opens on CMT**  - July 1st 2023
-- **Call for paper submission deadline EXTENDED** - August 18th, 2023, 11:59 pm UTC 
-- **Notification of Call for paper acceptance**  - September 12th, 2023  
+- **Call for paper submission opens on CMT**  - May 7th 2024
+- **Call for paper submission deadline** - June 10th, 2024, 11:59 pm UTC 
+- **Paper Review Period**  - June 11th - June 26th, 2024
+- **Notification of Call for paper acceptance**  - June 30th, 2024  
 
 Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url)
 
