@@ -116,22 +116,6 @@ function CallForPapers(props) {
                     <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2023/">
                         Full Details
                     </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="https://docs.google.com/presentation/d/e/2PACX-1vS2mr9M6oLt0_1EDzITGOfPOrHVuEihlWEcuDctljQ8GDeEBHzxcBM5IrGkkSxDgA/pub?start=false&loop=false&delayms=30000&slide=id.p1/">
-                        Workshop Program - Full Schedule
-                    </ColorButton>
-                    {/* <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2023-cfp">
-                        Call for Papers
-                    </ColorButton> */}
-                    <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2023-accepted-papers">
-                        BAI 2023 Accepted Papers
-                    </ColorButton>
-                    <ColorButton className={classes.chip} variant="contained" href="https://airtable.com/app53hoDCmKRQ2BBB/shrVmFeaYU3dSyRrt">
-                        Workshop Registration
-                    </ColorButton>
-                    {/* 
-                    <ColorButton className={classes.chip} variant="contained" href="https://nbviewer.org/github/blackinai/blackinai.github.io/blob/main/bai/src/files/BAI2021AcceptedPapersJointPostersSession.pdf">
-                        Accepted Papers Black in AI 2021
-                    </ColorButton> */}
                     <br />
                     <Typography variant="body2">
                         <br />
