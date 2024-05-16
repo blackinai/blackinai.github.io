@@ -73,9 +73,9 @@ function GridOfContents(props) {
             url: '/#/workshop/bai2024-cfp',
         },
         {
-            title: 'Call For Reviewer/Area Chair SOON',
+            title: 'Call For Reviewer/Area Chair (SOON)',
             width: '33.3%',
-            url: '',
+            url: 'https://forms.gle/Um2oimLaGkcwwaV4A',
         },
         {
             // title: 'Black in AI Travel Grant Application',
@@ -87,11 +87,6 @@ function GridOfContents(props) {
             width: '33.3%',
             url: '',
         },
-        // {
-        //     title: 'Accepted Papers',
-        //     width: '33.3%',
-        //     url: '',
-        // },
         // {
         //     title: 'Accepted Papers',
         //     width: '33.3%',
