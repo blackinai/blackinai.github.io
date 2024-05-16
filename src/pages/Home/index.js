@@ -18,7 +18,7 @@ function Home() {
             <Loader />
             <CssBaseline />
             <Navbar/>
-            {/* <CallForPapers/>  */}
+            <CallForPapers/> 
             {/* <AdvertisingBar/> */}
             <HomeHeader/>
             <HomeQuote/>

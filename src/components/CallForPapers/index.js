@@ -83,7 +83,7 @@ function CallForPapers(props) {
                         <Grid item xs={12} md={6}>
                             <div className={classes.item}>
                                 <Typography variant="h2" className={classes.title}>
-                                    Black in AI Workshop 2023
+                                    Black in AI Workshop 2024
                                     Call for Papers
                                 </Typography>
                             </div>
@@ -91,7 +91,7 @@ function CallForPapers(props) {
                     </Grid>
 
                     <Typography variant="body1" className={classes.title}>
-                        The 7th Black in AI Workshop will be held co-located with NeurIPS 2023.
+                        The 8th Black in AI Workshop will be held co-located with NeurIPS 2024.
 
                         We are looking forward to papers in the area of AI, including but not limited to computer
                         vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural
@@ -111,10 +111,12 @@ function CallForPapers(props) {
                         <a href="https://blackinai-workshop2021.eventbrite.com.br" target="_blank" rel="noopener noreferrer">HERE.</a>
                         <br/>
                         */}
-
                     </Typography>
-                    <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2023/">
+                    <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2024/">
                         Full Details
+                    </ColorButton>
+                    <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2024-cfp">
+                        Call for Papers
                     </ColorButton>
                     <br />
                     <Typography variant="body2">

@@ -88,9 +88,15 @@ function Workshops(props) {
 
     const workshops = [
         {
+            img: require('./../../assets/img/general/vancouver_neurips_2020.jpg'),
+            title: 'Black in AI 2024',
+            width: '50%',
+            url: '/#/workshop/bai2024',
+        },
+        {
             img: require('./../../assets/img/general/neworleans_convention_center.jpeg'),
             title: 'Black in AI 2023',
-            width: '100%',
+            width: '50%',
             url: '/#/workshop/bai2023',
         },
         {

@@ -23,6 +23,8 @@ import BAI2023 from './pages/BaiWorkshops/BAI2023';
 import BAI2023CFP from './pages/BaiWorkshops/BAI2023/CallForPapers';
 import BAI2023AccPapers from './pages/BaiWorkshops/BAI2023/AcceptedPapers';
 // import FinancialSupport from './pages/FinancialSupport';
+import BAI2024 from './pages/BaiWorkshops/BAI2024';
+import BAI2024CFP from './pages/BaiWorkshops/BAI2024/CallForPapers';
 import EntrepreneurshipProgram from './pages/EntrepreneurshipProgram';
 import SummerResearchPrograms from './pages/SummerResearchPrograms';
 import Media from './pages/Media';
@@ -68,6 +70,8 @@ ReactDOM.render(
             <Route path="/workshop/bai2023" component={BAI2023} />
             <Route path="/workshop/bai2023-cfp" component={BAI2023CFP} />
             <Route path="/workshop/bai2023-accepted-papers" component={BAI2023AccPapers} />
+            <Route path="/workshop/bai2024" component={BAI2024} />
+            <Route path="/workshop/bai2024-cfp" component={BAI2024CFP} />
             <Route path="/media" component={Media.PressRoom} />
             <Route path="/bai-open-position-2022" component={Media.BAIOpenPosition} />
         </Switch>
