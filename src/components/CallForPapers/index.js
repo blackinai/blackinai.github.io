@@ -116,6 +116,7 @@ function CallForPapers(props) {
                     <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2024/">
                         Full Details
                     </ColorButton>
+<<<<<<< HEAD
                     <ColorButton className={classes.chip} variant="contained" href="/#/workshop/bai2024-cfp">
                         Call for Papers
                     </ColorButton>
@@ -129,6 +130,8 @@ function CallForPapers(props) {
                     <ColorButton className={classes.chip} variant="contained" href="https://nbviewer.org/github/blackinai/blackinai.github.io/blob/main/bai/src/files/BAI2021AcceptedPapersJointPostersSession.pdf">
                         Accepted Papers Black in AI 2021
                     </ColorButton> */}
+=======
+>>>>>>> cce5f03 (update cfp)
                     <br />
                     <Typography variant="body2">
                         <br />
