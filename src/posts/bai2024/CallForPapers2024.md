@@ -25,7 +25,7 @@ Work may be previously published, completed, or ongoing. The workshop will not p
 
 All submissions must be in PDF format. Submissions are limited to two content pages, including all figures and tables. An additional page containing only references is allowed.​ Submissions should be in a​ single column ​, typeset using ​11-point or larger fonts, and have at least ​a 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits. We encourage authors to use one of these templates to prepare their submission:
 
-- [Overleaf template](https://www.overleaf.com/latex/templates/neurips-2021/bfjnthbqvhgs) (NeurIPS 2024 LaTeX style)
+- [Overleaf template](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh) (NeurIPS 2024 LaTeX style)
 - [Word template](https://docs.google.com/document/d/17Aqs0PC_U5ZRo0s0Dz9mlDJoaOeYjHIB/edit?usp=sharing&ouid=103774619668144386756&rtpof=true&sd=true)
 
 
