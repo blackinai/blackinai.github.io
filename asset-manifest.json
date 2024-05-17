@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d0c5ca4b.chunk.css",
-    "main.js": "/static/js/main.c7533eff.chunk.js",
-    "main.js.map": "/static/js/main.c7533eff.chunk.js.map",
+    "main.js": "/static/js/main.eaeee021.chunk.js",
+    "main.js.map": "/static/js/main.eaeee021.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
     "static/js/2.cefa0fa1.chunk.js": "/static/js/2.cefa0fa1.chunk.js",
     "static/js/2.cefa0fa1.chunk.js.map": "/static/js/2.cefa0fa1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b2978c08464ff7a61ef0bed7baa0e374.js": "/precache-manifest.b2978c08464ff7a61ef0bed7baa0e374.js",
+    "precache-manifest.2b33714d7ff5e3ed799696198c4966a6.js": "/precache-manifest.2b33714d7ff5e3ed799696198c4966a6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d0c5ca4b.chunk.css.map": "/static/css/main.d0c5ca4b.chunk.css.map",
     "static/js/2.cefa0fa1.chunk.js.LICENSE.txt": "/static/js/2.cefa0fa1.chunk.js.LICENSE.txt",
@@ -25,7 +25,7 @@
     "static/media/CallForPapers2021.md": "/static/media/CallForPapers2021.74293cdd.md",
     "static/media/CallForPapers2022.md": "/static/media/CallForPapers2022.2b4e47d2.md",
     "static/media/CallForPapers2023.md": "/static/media/CallForPapers2023.72e5f50c.md",
-    "static/media/CallForPapers2024.md": "/static/media/CallForPapers2024.f3c8c069.md",
+    "static/media/CallForPapers2024.md": "/static/media/CallForPapers2024.fefa5a8a.md",
     "static/media/CallForStartups2021.md": "/static/media/CallForStartups2021.3a7dd99d.md",
     "static/media/CharlesIsbell.jpg": "/static/media/CharlesIsbell.de6e3266.jpg",
     "static/media/EntrepreneurshipProgram.md": "/static/media/EntrepreneurshipProgram.9d899d4b.md",
@@ -123,6 +123,6 @@
     "static/js/runtime-main.defa89fe.js",
     "static/js/2.cefa0fa1.chunk.js",
     "static/css/main.d0c5ca4b.chunk.css",
-    "static/js/main.c7533eff.chunk.js"
+    "static/js/main.eaeee021.chunk.js"
   ]
 }
