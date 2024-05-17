@@ -39,12 +39,12 @@ We strongly encourage workshop attendees to register for the workshops as early 
 - **Paper Review Period**  - June 11th - June 26th, 2024
 - **Notification of Call for paper acceptance**  - June 30th, 2024  
 
-Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url)
+<!-- Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url) -->
 
 
-**Submit your work using CMT at**: https://cmt3.research.microsoft.com/BAI2024
+<!-- **Submit your work using CMT at**: https://cmt3.research.microsoft.com/BAI2024 -->
 
-Submission instructions and important deadlines can be also found [here](https://docs.google.com/document/d/1NbnclRsdB3gfO7dcXeuXfhfK6LSjwzMT_OSvuqXjBRw/edit?usp=sharing)
+<!-- Submission instructions and important deadlines can be also found [here](https://docs.google.com/document/d/1NbnclRsdB3gfO7dcXeuXfhfK6LSjwzMT_OSvuqXjBRw/edit?usp=sharing) -->
 
 
 If you have any questions, contact Organizers at organizers2024@blackinai.org and follow @black_in_ai to keep updated.
