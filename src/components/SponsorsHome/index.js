@@ -144,7 +144,7 @@ function SponsorsHome(props) {
         <section className={classes.root}>
             <Container className={classes.container}>
                 <Grid container spacing={12}>
-                    <Grid item xs={12}>
+                    {/* <Grid item xs={12}>
                         <Typography variant="h3" marked="center" align="center" component="h2" className={classes.title}>
                             2023 Current Sponsors
                         </Typography>
@@ -157,7 +157,7 @@ function SponsorsHome(props) {
                                 </Link>
                             </div>
                         </Grid>
-                    ))}
+                    ))} */}
                     <Grid container spacing={12}>
                         <Grid item xs={12}>
                             <Typography variant="h3" marked="center" align="center" component="h2" className={classes.title}>
