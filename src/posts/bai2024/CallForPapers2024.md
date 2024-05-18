@@ -1,9 +1,9 @@
-##### Last updated on May 16, 2024
+##### Last updated on May 18, 2024
 
 ## Call For Papers
 ---
 
-We invite submissions for the Sixth Black in AI Workshop (co-located with [NeurIPS 2024](https://neurips.cc)). Both the Black in AI workshop and the NeurIPS conference will be held in a hybrid format.
+We invite submissions for the 8th Black in AI Workshop (co-located with [NeurIPS 2024](https://neurips.cc)), that will be held in person at Vancouver Convention Center Monday Dec 9 through Sunday Dec 15, 2024. 
 
 
 We welcome research papers, position papers, survey papers, vision papers, or papers that inform about neglected/abandoned areas of study where AI could be impactful. Papers may introduce new theories, methodology, applications, or product demonstrations. Papers are published in a non-archival format and may have been published in other venues before or be published in other venues in the future.
@@ -30,21 +30,25 @@ All submissions must be in PDF format. Submissions are limited to two content pa
 
 
 ## NeurIPs Registration
-We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found [here](https://neurips.cc/accounts/login/?next=/Profile).
+To attend the workshop you must register to the NeurIPS conference. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found [here](https://neurips.cc/).
 
 
 ## Important Dates
-- **Call for paper submission opens on CMT**  - May 7th 2024
+- **Call for paper submission opens on CMT**  - May 20th 2024
 - **Call for paper submission deadline** - June 10th, 2024, 11:59 pm UTC 
 - **Paper Review Period**  - June 11th - June 26th, 2024
 - **Notification of Call for paper acceptance**  - June 30th, 2024  
 
-<!-- Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url) -->
+Submission will be done on Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url)
 
 
-<!-- **Submit your work using CMT at**: https://cmt3.research.microsoft.com/BAI2024 -->
+**Submit your work using CMT at**: COMING SOON
 
-<!-- Submission instructions and important deadlines can be also found [here](https://docs.google.com/document/d/1NbnclRsdB3gfO7dcXeuXfhfK6LSjwzMT_OSvuqXjBRw/edit?usp=sharing) -->
+<!-- https://cmt3.research.microsoft.com/BAI2024  -->
+
+Submission instructions and important deadlines can be also found [here](https://docs.google.com/document/d/1NbnclRsdB3gfO7dcXeuXfhfK6LSjwzMT_OSvuqXjBRw/edit?usp=sharing)
 
 
 If you have any questions, contact Organizers at organizers2024@blackinai.org and follow @black_in_ai to keep updated.
+
+**Organizers commitee:** Marquita Riggins (marquita@blackinai.org)
