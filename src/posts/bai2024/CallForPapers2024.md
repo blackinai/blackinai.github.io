@@ -3,7 +3,7 @@
 ## Call For Papers
 ---
 
-We invite submissions for the 8th Black in AI Workshop (co-located with [NeurIPS 2024](https://neurips.cc)), that will be held in person Vancouver Convention Center Monday Dec 9 through Sunday Dec 15. 
+We invite submissions for the 8th Black in AI Workshop (co-located with [NeurIPS 2024](https://neurips.cc)), that will be held in person at Vancouver Convention Center Monday Dec 9 through Sunday Dec 15, 2024. 
 
 
 We welcome research papers, position papers, survey papers, vision papers, or papers that inform about neglected/abandoned areas of study where AI could be impactful. Papers may introduce new theories, methodology, applications, or product demonstrations. Papers are published in a non-archival format and may have been published in other venues before or be published in other venues in the future.
@@ -50,4 +50,5 @@ Submission instructions and important deadlines can be also found [here](https:/
 
 
 If you have any questions, contact Organizers at organizers2024@blackinai.org and follow @black_in_ai to keep updated.
-Organizers commitee: Marquita Riggins (marquita@blackinai.org)
+
+**Organizers commitee:** Marquita Riggins (marquita@blackinai.org)
