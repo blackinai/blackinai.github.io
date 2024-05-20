@@ -68,12 +68,12 @@ function GridOfContents(props) {
 
     const workshops = [
         {
-            title: 'Call For Paper & Important Deadlines',
+            title: 'Call For Paper (OPEN) & Important Deadlines',
             width: '33.3%',
             url: '/#/workshop/bai2024-cfp',
         },
         {
-            title: 'Call For Reviewer/Area Chair (SOON)',
+            title: 'Call For Reviewer/Area Chair (OPEN)',
             width: '33.3%',
             url: 'https://forms.gle/Um2oimLaGkcwwaV4A',
         },
@@ -83,25 +83,25 @@ function GridOfContents(props) {
             // url: 'https://forms.gle/4CXkLZk89e1JvTZ66',
         },
         {
-            title: 'Workshop Registration SOON',
+            title: 'Workshop Registration (SOON)',
             width: '33.3%',
             url: '',
         },
-        // {
-        //     title: 'Accepted Papers',
-        //     width: '33.3%',
-        //     url: 'https://nbviewer.org/github/blackinai/blackinai.github.io/blob/main/bai/src/files/BAI2021AcceptedPapersJointPostersSession.pdf',
-        // },
         {
-            // title: 'Workshop Program - SOON',
-            // width: '33.3%',
-           // url: 'https://nbviewer.org/github/blackinai/blackinai.github.io/blob/main/bai/src/files/BAI2022WorkshopSchedule.pdf',
+            title: 'Accepted Papers (SOON)',
+            width: '33.3%',
+            url: '',
         },
-        // {
-        //     title: 'Meet the Black in AI 2021 Organizers',
-        //     width: '33.3%',
-        //     url: '/#/workshop/bai2021-organizers',
-        // },
+        {
+            title: 'Workshop Program (SOON)',
+            width: '33.3%',
+            url: '',
+        },
+        {
+            title: 'Black in AI 2024 Organizers',
+            width: '33.3%',
+            url: '/#/workshop/bai2024-cfp',
+        },
     ];
 
     return (
