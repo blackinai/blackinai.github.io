@@ -42,13 +42,9 @@ To attend the workshop you must register to the NeurIPS conference. We strongly 
 Submission will be done on Microsoft Conference Management Toolkit (CMT): [HOW-TO: Author Submission](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html#use-known-conference-url)
 
 
-**Submit your work using CMT at**: COMING SOON
-
-<!-- https://cmt3.research.microsoft.com/BAI2024  -->
+**Submit your work using CMT at**: https://cmt3.research.microsoft.com/BAI2024 
 
 Submission instructions and important deadlines can be also found [here](https://docs.google.com/document/d/1NbnclRsdB3gfO7dcXeuXfhfK6LSjwzMT_OSvuqXjBRw/edit?usp=sharing)
 
 
 If you have any questions, contact Organizers at organizers2024@blackinai.org and follow @black_in_ai to keep updated.
-
-**Organizers commitee:** Marquita Riggins (marquita@blackinai.org)
