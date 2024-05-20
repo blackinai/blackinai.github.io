@@ -9,6 +9,7 @@ import ContentFile from '../../../components/Markdown/readfile';
 import WorkshopPageHeader from '../../../components/WorkshopPageHeader';
 import image from './../../../assets/img/general/header-bai-2024.png';
 import Loader from '../../../loader';
+import Organizers from './Organizers';
 
 function CallForPapers() {
     return (
@@ -19,6 +20,7 @@ function CallForPapers() {
             <ContentFile href={CallForPapers2024}>
                 Black in AI 2024 - Call For Papers
             </ContentFile>
+            <Organizers />
             <Footer />
         </ThemeProvider>
     );

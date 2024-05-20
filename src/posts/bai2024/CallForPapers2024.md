@@ -48,5 +48,3 @@ Submission instructions and important deadlines can be also found [here](https:/
 
 
 If you have any questions, contact Organizers at organizers2024@blackinai.org and follow @black_in_ai to keep updated.
-
-**Organizers commitee:** Marquita Riggins (marquita@blackinai.org)
