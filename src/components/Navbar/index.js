@@ -180,10 +180,10 @@ function Navbar(props) {
         {
             text: 'Community Events',
             path: [
-                {
-                    text: 'Call for Organizers - SOON',
-                    // path: 'https://docs.google.com/forms/d/e/1FAIpQLSeGoMlgsXby1clQPEljzqzU5Cz08NC1P6jp1VAtnZ0F7J8GdA/viewform',
-                },
+                // {
+                //     text: 'Call for Organizers',
+                //     path: 'https://docs.google.com/forms/d/e/1FAIpQLSf4FL8fcozYUGmQVTGBuLkDOAsH_VYUtAT-EAXmDTN7GfxaGQ/viewform',
+                // },
                 {
                     text: 'All Events',
                     path: '/#/events',
