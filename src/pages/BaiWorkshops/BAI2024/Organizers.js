@@ -71,14 +71,14 @@ const organizers = [
         link_2: 'https://mirianfsilva.github.io/'
     },
     {
-        image: salomey,
-        title: 'Salomey Osei', 
-        subtitle: 'Research Assistant, University of Deusto',
-        bio: 'Salomey is a research assistant at DeustoTech, University of Deusto. She is also a researcher at Masakhane and the research lead of unsupervised methods for Ghana NLP. She has been involved with a number of organizations such as Black in AI, Women in Machine Learning (WiML) and Women in Machine Learning and Data Science (WiMLDS) as a co-organiser. She is also passionate about mentoring students, especially females in STEM and her long term goal is to share her knowledge with others by lecturing.',
+        image: "",
+        title: 'Lyse Naomie Wamba', 
+        subtitle: '',
+        bio: '',
         icon_1: <FontAwesomeIcon icon={["fab", "twitter"]}/>,
-        icon_2: <FontAwesomeIcon icon={["fab", "linkedin"]}/>,
-        link_1: 'https://twitter.com/NanaYaaSally',
-        link_2: 'https://www.linkedin.com/in/salomey-osei-4b08a5b8/'
+        icon_2: <FontAwesomeIcon icon={["fa", "link"]}/>,
+        link_1: '',
+        link_2: ''
     },
     {
         image: foutse,
