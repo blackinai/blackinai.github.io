@@ -70,24 +70,24 @@ const advisoryBoard = [
     //     link: 'https://ai.stanford.edu/~tgebru/',
     //     icon: <FontAwesomeIcon icon={["fa", "link"]} size="1x"/>,
     // },
-    {
-        image: require('./../../assets/img/team/HabenGirma.jpg'),
-        name: 'Haben Girma', 
-        link: 'https://www.linkedin.com/in/habengirma/',
-        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
+    // {
+    //     image: require('./../../assets/img/team/HabenGirma.jpg'),
+    //     name: 'Haben Girma', 
+    //     link: 'https://www.linkedin.com/in/habengirma/',
+    //     icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    // },
     {
         image: require('./../../assets/img/team/AyannaHoward.jpg'),
         name: 'Ayanna Howard', 
         link: 'https://www.linkedin.com/in/ayanna-howard/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },
-    {
-        image: require('./../../assets/img/team/CharlesIsbell.jpg'),
-        name: 'Charles Isbell',
-        link: 'https://www.linkedin.com/in/charles-isbell-a12b808/',
-        icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
-    },
+    // {
+    //     image: require('./../../assets/img/team/CharlesIsbell.jpg'),
+    //     name: 'Charles Isbell',
+    //     link: 'https://www.linkedin.com/in/charles-isbell-a12b808/',
+    //     icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
+    // },
     {
         image: require('./../../assets/img/team/BrandeisMarshall.jpg'),
         name: 'Brandeis Marshall', 
