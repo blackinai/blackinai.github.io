@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d0c5ca4b.chunk.css",
-    "main.js": "/static/js/main.510f8e94.chunk.js",
-    "main.js.map": "/static/js/main.510f8e94.chunk.js.map",
+    "main.js": "/static/js/main.e395bfa0.chunk.js",
+    "main.js.map": "/static/js/main.e395bfa0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.defa89fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.defa89fe.js.map",
-    "static/js/2.8d68822f.chunk.js": "/static/js/2.8d68822f.chunk.js",
-    "static/js/2.8d68822f.chunk.js.map": "/static/js/2.8d68822f.chunk.js.map",
+    "static/js/2.b432b85a.chunk.js": "/static/js/2.b432b85a.chunk.js",
+    "static/js/2.b432b85a.chunk.js.map": "/static/js/2.b432b85a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.23e440384f819a1480f35486528aaf02.js": "/precache-manifest.23e440384f819a1480f35486528aaf02.js",
+    "precache-manifest.3c3b79e1502422f6359cf652938282c1.js": "/precache-manifest.3c3b79e1502422f6359cf652938282c1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d0c5ca4b.chunk.css.map": "/static/css/main.d0c5ca4b.chunk.css.map",
-    "static/js/2.8d68822f.chunk.js.LICENSE.txt": "/static/js/2.8d68822f.chunk.js.LICENSE.txt",
+    "static/js/2.b432b85a.chunk.js.LICENSE.txt": "/static/js/2.b432b85a.chunk.js.LICENSE.txt",
     "static/media/AcademicProgram.md": "/static/media/AcademicProgram.71aca667.md",
     "static/media/AcceptedPapers2023.md": "/static/media/AcceptedPapers2023.edf89d13.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.d714441a.md",
@@ -27,14 +27,12 @@
     "static/media/CallForPapers2023.md": "/static/media/CallForPapers2023.72e5f50c.md",
     "static/media/CallForPapers2024.md": "/static/media/CallForPapers2024.2afc8ca3.md",
     "static/media/CallForStartups2021.md": "/static/media/CallForStartups2021.3a7dd99d.md",
-    "static/media/CharlesIsbell.jpg": "/static/media/CharlesIsbell.de6e3266.jpg",
     "static/media/EntrepreneurshipProgram.md": "/static/media/EntrepreneurshipProgram.9d899d4b.md",
     "static/media/EzinneNwanko.jpg": "/static/media/EzinneNwanko.7143c736.jpg",
     "static/media/GelynWatkins.jpeg": "/static/media/GelynWatkins.32b5f388.jpeg",
     "static/media/Grants2017.md": "/static/media/Grants2017.bb898331.md",
     "static/media/Grants2018.md": "/static/media/Grants2018.09c6195b.md",
     "static/media/Grants2019.md": "/static/media/Grants2019.e7417584.md",
-    "static/media/HabenGirma.jpg": "/static/media/HabenGirma.f3b1bbd2.jpg",
     "static/media/HassanKane.jpg": "/static/media/HassanKane.c6ffa442.jpg",
     "static/media/ICML2021.md": "/static/media/ICML2021.922322c8.md",
     "static/media/IsaacDonis.png": "/static/media/IsaacDonis.2f301126.png",
@@ -121,8 +119,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.defa89fe.js",
-    "static/js/2.8d68822f.chunk.js",
+    "static/js/2.b432b85a.chunk.js",
     "static/css/main.d0c5ca4b.chunk.css",
-    "static/js/main.510f8e94.chunk.js"
+    "static/js/main.e395bfa0.chunk.js"
   ]
 }

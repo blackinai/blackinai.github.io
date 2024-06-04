@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbf7dcf6fba67ab816c73fca42140485",
+    "revision": "541c9e188fb860f071eb50686f467d94",
     "url": "/index.html"
   },
   {
-    "revision": "501a18c259d57499f923",
+    "revision": "4d03247af08b86781a02",
     "url": "/static/css/main.d0c5ca4b.chunk.css"
   },
   {
-    "revision": "87baaad92fe578dced7c",
-    "url": "/static/js/2.8d68822f.chunk.js"
+    "revision": "9ac1d7de6a54723f15d2",
+    "url": "/static/js/2.b432b85a.chunk.js"
   },
   {
     "revision": "f5120b3bcf6b0693f6268bfb0887bcff",
-    "url": "/static/js/2.8d68822f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b432b85a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "501a18c259d57499f923",
-    "url": "/static/js/main.510f8e94.chunk.js"
+    "revision": "4d03247af08b86781a02",
+    "url": "/static/js/main.e395bfa0.chunk.js"
   },
   {
     "revision": "09dffc426847936313fd",
@@ -84,10 +84,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CallForStartups2021.3a7dd99d.md"
   },
   {
-    "revision": "de6e3266fe71ba841ce39cdb3de11dac",
-    "url": "/static/media/CharlesIsbell.de6e3266.jpg"
-  },
-  {
     "revision": "9d899d4b2f963fbdec9bd8905a5d3cb2",
     "url": "/static/media/EntrepreneurshipProgram.9d899d4b.md"
   },
@@ -110,10 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e741758476a5ce76bb6e991a9ee20d79",
     "url": "/static/media/Grants2019.e7417584.md"
-  },
-  {
-    "revision": "f3b1bbd269dc0c3f80d27cb5dbc93652",
-    "url": "/static/media/HabenGirma.f3b1bbd2.jpg"
   },
   {
     "revision": "c6ffa44237e9513cc30f73413e4c3fbf",
