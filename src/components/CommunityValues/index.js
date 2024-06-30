@@ -71,7 +71,7 @@ const valueslist = [
     },
     {
         id: 3, title: '10+',
-        text: 'Number of workshops held or some other metric that shows how far we’ve come.'
+        text: 'Number of workshops held.'
     },
     {
         id: 4, title: '40x',
