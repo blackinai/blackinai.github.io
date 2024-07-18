@@ -18,7 +18,7 @@ On this page we will answer frequently asked questions and provide opportunities
 
 If you are interested in supporting us by volunteering your time as a mentor, donating to the program, or supporting us with our advocacy, please reach out to the organizers
 
-**APPLY HERE: [Academic Program Forms](https://forms.gle/TcnntQBihMivhajr7)**
+**APPLY HERE: [Academic Program Forms](https://bit.ly/3xQG0d2)**
 
 
 -----
@@ -27,7 +27,7 @@ If you are interested in supporting us by volunteering your time as a mentor, do
 
 - **How can I apply?**
 
-[APPLY HERE](https://forms.gle/TcnntQBihMivhajr7)
+[APPLY HERE](https://bit.ly/3xQG0d2)
 
 - **How can I support this program as an academic?**
 
